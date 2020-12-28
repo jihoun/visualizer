@@ -1,0 +1,7738 @@
+{
+ "status": 0,
+ "requestId": "",
+ "msg": "success",
+ "submsg": "",
+ "data": {
+  "items": [
+   {
+    "timestamp": 1609135143263,
+    "localtime": "2020-12-28 13:59:03",
+    "FL_p": 0.0057271807,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609135147263,
+    "FL_p": 0.005757678,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 13:59:07"
+   },
+   {
+    "localtime": "2020-12-28 13:59:11",
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609135151263,
+    "FL_p": 0.005788175
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609135155263,
+    "FL_p": 0.005818672,
+    "localtime": "2020-12-28 13:59:15"
+   },
+   {
+    "FL_p": 0.005849169,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 13:59:19",
+    "timestamp": 1609135159263
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 13:59:23",
+    "timestamp": 1609135163263,
+    "FL_p": 0.005879666
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 13:59:27",
+    "timestamp": 1609135167263,
+    "FL_p": 0.0059101633
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 13:59:31",
+    "timestamp": 1609135171263,
+    "FL_p": 0.0059406604
+   },
+   {
+    "timestamp": 1609135175263,
+    "FL_p": 0.005971158,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 13:59:35"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609135179263,
+    "FL_p": 0.006001655,
+    "localtime": "2020-12-28 13:59:39"
+   },
+   {
+    "timestamp": 1609135183263,
+    "FL_p": 0.006032152,
+    "localtime": "2020-12-28 13:59:43",
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609135187263,
+    "FL_p": 0.006062649,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 13:59:47"
+   },
+   {
+    "localtime": "2020-12-28 13:59:51",
+    "timestamp": 1609135191263,
+    "FL_p": 0.0060931463,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "localtime": "2020-12-28 13:59:55",
+    "timestamp": 1609135195263,
+    "FL_p": 0.0061236434,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609135199263,
+    "FL_p": 0.0061541405,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 13:59:59"
+   },
+   {
+    "timestamp": 1609135203263,
+    "FL_p": 0.0061846375,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:00:03"
+   },
+   {
+    "timestamp": 1609135207263,
+    "FL_p": 0.0062464667,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:00:07"
+   },
+   {
+    "timestamp": 1609135211263,
+    "FL_p": 0.0063082953,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:00:11"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609135215263,
+    "FL_p": 0.006370124,
+    "localtime": "2020-12-28 14:00:15"
+   },
+   {
+    "timestamp": 1609135219263,
+    "FL_p": 0.006431953,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:00:19"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:00:23",
+    "timestamp": 1609135223263,
+    "FL_p": 0.0064937817
+   },
+   {
+    "FL_p": 0.0065556103,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609135227263,
+    "localtime": "2020-12-28 14:00:27"
+   },
+   {
+    "FL_p": 0.0066174394,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609135231263,
+    "localtime": "2020-12-28 14:00:31"
+   },
+   {
+    "timestamp": 1609135235263,
+    "FL_p": 0.006679268,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:00:35"
+   },
+   {
+    "timestamp": 1609135239263,
+    "FL_p": 0.0067410967,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:00:39"
+   },
+   {
+    "timestamp": 1609135243263,
+    "FL_p": 0.006802926,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:00:43"
+   },
+   {
+    "timestamp": 1609135247263,
+    "FL_p": 0.0068647545,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:00:47"
+   },
+   {
+    "localtime": "2020-12-28 14:00:51",
+    "timestamp": 1609135251263,
+    "FL_p": 0.0069265836,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609135255263,
+    "FL_p": 0.0069884122,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:00:55"
+   },
+   {
+    "timestamp": 1609135259263,
+    "FL_p": 0.007050241,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:00:59"
+   },
+   {
+    "timestamp": 1609135263263,
+    "FL_p": 0.00711207,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:01:03"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609135267263,
+    "FL_p": 0.0070889047,
+    "localtime": "2020-12-28 14:01:07"
+   },
+   {
+    "FL_p": 0.0070657395,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609135271263,
+    "localtime": "2020-12-28 14:01:11"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609135275263,
+    "FL_p": 0.007042574,
+    "localtime": "2020-12-28 14:01:15"
+   },
+   {
+    "timestamp": 1609135279263,
+    "FL_p": 0.007019409,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:01:19"
+   },
+   {
+    "timestamp": 1609135283263,
+    "FL_p": 0.0069962437,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:01:23"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609135287263,
+    "FL_p": 0.0069730785,
+    "localtime": "2020-12-28 14:01:27"
+   },
+   {
+    "timestamp": 1609135291263,
+    "FL_p": 0.006949913,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:01:31"
+   },
+   {
+    "localtime": "2020-12-28 14:01:35",
+    "FL_p": 0.006926748,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609135295263
+   },
+   {
+    "timestamp": 1609135299263,
+    "FL_p": 0.0069035827,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:01:39"
+   },
+   {
+    "localtime": "2020-12-28 14:01:43",
+    "FL_p": 0.0068804175,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609135303263
+   },
+   {
+    "timestamp": 1609135307263,
+    "FL_p": 0.006857252,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:01:47"
+   },
+   {
+    "FL_p": 0.006834087,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609135311263,
+    "localtime": "2020-12-28 14:01:51"
+   },
+   {
+    "timestamp": 1609135315263,
+    "FL_p": 0.0068109217,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:01:55"
+   },
+   {
+    "timestamp": 1609135319263,
+    "FL_p": 0.0067877565,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:01:59"
+   },
+   {
+    "localtime": "2020-12-28 14:02:03",
+    "timestamp": 1609135323263,
+    "FL_p": 0.006764591,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609135327263,
+    "FL_p": 0.0067541227,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:02:07"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:02:11",
+    "timestamp": 1609135331263,
+    "FL_p": 0.006743654
+   },
+   {
+    "FL_p": 0.0067331856,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:02:15",
+    "timestamp": 1609135335263
+   },
+   {
+    "timestamp": 1609135339263,
+    "FL_p": 0.0067227175,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:02:19"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609135343263,
+    "FL_p": 0.006712249,
+    "localtime": "2020-12-28 14:02:23"
+   },
+   {
+    "timestamp": 1609135347263,
+    "FL_p": 0.0067017805,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:02:27"
+   },
+   {
+    "FL_p": 0.006691312,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:02:31",
+    "timestamp": 1609135351263
+   },
+   {
+    "timestamp": 1609135355263,
+    "FL_p": 0.0066808434,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:02:35"
+   },
+   {
+    "timestamp": 1609135359263,
+    "FL_p": 0.0066703754,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:02:39"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609135363263,
+    "FL_p": 0.006659907,
+    "localtime": "2020-12-28 14:02:43"
+   },
+   {
+    "timestamp": 1609135367263,
+    "FL_p": 0.0066494383,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:02:47"
+   },
+   {
+    "timestamp": 1609135371263,
+    "FL_p": 0.0066389698,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:02:51"
+   },
+   {
+    "localtime": "2020-12-28 14:02:55",
+    "timestamp": 1609135375263,
+    "FL_p": 0.006628501,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609135379263,
+    "FL_p": 0.006618033,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:02:59"
+   },
+   {
+    "localtime": "2020-12-28 14:03:03",
+    "FL_p": 0.0066075646,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609135383263
+   },
+   {
+    "timestamp": 1609135387263,
+    "FL_p": 0.0065502864,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:03:07"
+   },
+   {
+    "timestamp": 1609135391263,
+    "FL_p": 0.006493008,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:03:11"
+   },
+   {
+    "timestamp": 1609135395263,
+    "FL_p": 0.00643573,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:03:15"
+   },
+   {
+    "FL_p": 0.0063784523,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609135399263,
+    "localtime": "2020-12-28 14:03:19"
+   },
+   {
+    "timestamp": 1609135403263,
+    "FL_p": 0.006321174,
+    "localtime": "2020-12-28 14:03:23",
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609135407263,
+    "FL_p": 0.006263896,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:03:27"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:03:31",
+    "timestamp": 1609135411263,
+    "FL_p": 0.0062066177
+   },
+   {
+    "timestamp": 1609135415263,
+    "FL_p": 0.00614934,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:03:35"
+   },
+   {
+    "timestamp": 1609135419263,
+    "FL_p": 0.0060920618,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:03:39"
+   },
+   {
+    "timestamp": 1609135423263,
+    "FL_p": 0.0060347836,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:03:43"
+   },
+   {
+    "localtime": "2020-12-28 14:03:47",
+    "timestamp": 1609135427263,
+    "FL_p": 0.0059775054,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "localtime": "2020-12-28 14:03:51",
+    "timestamp": 1609135431263,
+    "FL_p": 0.0059202276,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "FL_p": 0.0058629494,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609135435263,
+    "localtime": "2020-12-28 14:03:55"
+   },
+   {
+    "timestamp": 1609135439263,
+    "FL_p": 0.005805671,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:03:59"
+   },
+   {
+    "timestamp": 1609135443263,
+    "FL_p": 0.005748393,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:04:03"
+   },
+   {
+    "FL_p": 0.005738419,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:04:07",
+    "timestamp": 1609135447263
+   },
+   {
+    "timestamp": 1609135451263,
+    "FL_p": 0.0057284446,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:04:11"
+   },
+   {
+    "timestamp": 1609135455263,
+    "FL_p": 0.0057184706,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:04:15"
+   },
+   {
+    "localtime": "2020-12-28 14:04:19",
+    "FL_p": 0.005708496,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609135459263
+   },
+   {
+    "timestamp": 1609135463263,
+    "FL_p": 0.005698522,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:04:23"
+   },
+   {
+    "timestamp": 1609135467263,
+    "FL_p": 0.005688548,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:04:27"
+   },
+   {
+    "timestamp": 1609135471263,
+    "FL_p": 0.0056785736,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:04:31"
+   },
+   {
+    "FL_p": 0.0056685996,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609135475263,
+    "localtime": "2020-12-28 14:04:35"
+   },
+   {
+    "timestamp": 1609135479263,
+    "FL_p": 0.005658625,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:04:39"
+   },
+   {
+    "FL_p": 0.005648651,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:04:43",
+    "timestamp": 1609135483263
+   },
+   {
+    "timestamp": 1609135487263,
+    "FL_p": 0.0056386767,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:04:47"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609135491263,
+    "FL_p": 0.0056287027,
+    "localtime": "2020-12-28 14:04:51"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:04:55",
+    "timestamp": 1609135495263,
+    "FL_p": 0.005618728
+   },
+   {
+    "timestamp": 1609135499263,
+    "localtime": "2020-12-28 14:04:59",
+    "FL_p": 0.005608754,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "localtime": "2020-12-28 14:05:03",
+    "timestamp": 1609135503263,
+    "FL_p": 0.00559878,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609135507263,
+    "FL_p": 0.005649988,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:05:07"
+   },
+   {
+    "localtime": "2020-12-28 14:05:11",
+    "timestamp": 1609135511263,
+    "FL_p": 0.0057011964,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609135515263,
+    "FL_p": 0.0057524047,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:05:15"
+   },
+   {
+    "FL_p": 0.005803613,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609135519263,
+    "localtime": "2020-12-28 14:05:19"
+   },
+   {
+    "timestamp": 1609135523263,
+    "FL_p": 0.0058548218,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:05:23"
+   },
+   {
+    "timestamp": 1609135527263,
+    "FL_p": 0.00590603,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:05:27"
+   },
+   {
+    "timestamp": 1609135531263,
+    "FL_p": 0.0059572384,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:05:31"
+   },
+   {
+    "timestamp": 1609135535263,
+    "FL_p": 0.0060084467,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:05:35"
+   },
+   {
+    "timestamp": 1609135539263,
+    "FL_p": 0.006059655,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:05:39"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609135543263,
+    "FL_p": 0.0061108633,
+    "localtime": "2020-12-28 14:05:43"
+   },
+   {
+    "FL_p": 0.0061620716,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:05:47",
+    "timestamp": 1609135547263
+   },
+   {
+    "FL_p": 0.00621328,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:05:51",
+    "timestamp": 1609135551263
+   },
+   {
+    "FL_p": 0.006264488,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:05:55",
+    "timestamp": 1609135555263
+   },
+   {
+    "FL_p": 0.0063156965,
+    "localtime": "2020-12-28 14:05:59",
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609135559263
+   },
+   {
+    "timestamp": 1609135563263,
+    "FL_p": 0.006366905,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:06:03"
+   },
+   {
+    "timestamp": 1609135567263,
+    "FL_p": 0.006377865,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:06:07"
+   },
+   {
+    "localtime": "2020-12-28 14:06:11",
+    "FL_p": 0.0063888254,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609135571263
+   },
+   {
+    "timestamp": 1609135575263,
+    "FL_p": 0.006399786,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:06:15"
+   },
+   {
+    "FL_p": 0.0064107464,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:06:19",
+    "timestamp": 1609135579263
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609135583263,
+    "FL_p": 0.0064217066,
+    "localtime": "2020-12-28 14:06:23"
+   },
+   {
+    "timestamp": 1609135587263,
+    "FL_p": 0.0064326674,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:06:27"
+   },
+   {
+    "timestamp": 1609135591263,
+    "FL_p": 0.0064436276,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:06:31"
+   },
+   {
+    "timestamp": 1609135595263,
+    "FL_p": 0.006454588,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:06:35"
+   },
+   {
+    "localtime": "2020-12-28 14:06:39",
+    "timestamp": 1609135599263,
+    "FL_p": 0.0064655486,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "localtime": "2020-12-28 14:06:43",
+    "timestamp": 1609135603263,
+    "FL_p": 0.006476509,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609135607263,
+    "FL_p": 0.006487469,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:06:47"
+   },
+   {
+    "timestamp": 1609135611263,
+    "FL_p": 0.00649843,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:06:51"
+   },
+   {
+    "localtime": "2020-12-28 14:06:55",
+    "timestamp": 1609135615263,
+    "FL_p": 0.00650939,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:06:59",
+    "timestamp": 1609135619263,
+    "FL_p": 0.0065203505
+   },
+   {
+    "timestamp": 1609135623263,
+    "FL_p": 0.006531311,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:07:03"
+   },
+   {
+    "timestamp": 1609135627263,
+    "FL_p": 0.006577857,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:07:07"
+   },
+   {
+    "timestamp": 1609135631263,
+    "FL_p": 0.0066244025,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:07:11"
+   },
+   {
+    "timestamp": 1609135635263,
+    "FL_p": 0.006670948,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:07:15"
+   },
+   {
+    "localtime": "2020-12-28 14:07:19",
+    "FL_p": 0.0067174938,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609135639263
+   },
+   {
+    "FL_p": 0.0067640394,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:07:23",
+    "timestamp": 1609135643263
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609135647263,
+    "FL_p": 0.0068105855,
+    "localtime": "2020-12-28 14:07:27"
+   },
+   {
+    "timestamp": 1609135651263,
+    "FL_p": 0.006857131,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:07:31"
+   },
+   {
+    "localtime": "2020-12-28 14:07:35",
+    "timestamp": 1609135655263,
+    "FL_p": 0.006903677,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "localtime": "2020-12-28 14:07:39",
+    "timestamp": 1609135659263,
+    "FL_p": 0.0069502224,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "FL_p": 0.006996768,
+    "localtime": "2020-12-28 14:07:43",
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609135663263
+   },
+   {
+    "localtime": "2020-12-28 14:07:47",
+    "timestamp": 1609135667263,
+    "FL_p": 0.0070433137,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "localtime": "2020-12-28 14:07:51",
+    "FL_p": 0.0070898593,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609135671263
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609135675263,
+    "FL_p": 0.0071364054,
+    "localtime": "2020-12-28 14:07:55"
+   },
+   {
+    "timestamp": 1609135679263,
+    "FL_p": 0.007182951,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:07:59"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:08:03",
+    "timestamp": 1609135683263,
+    "FL_p": 0.0072294967
+   },
+   {
+    "timestamp": 1609135687263,
+    "FL_p": 0.00720015,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:08:07"
+   },
+   {
+    "timestamp": 1609135691263,
+    "FL_p": 0.007170803,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:08:11"
+   },
+   {
+    "timestamp": 1609135695263,
+    "FL_p": 0.0071414565,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:08:15"
+   },
+   {
+    "FL_p": 0.0071121096,
+    "localtime": "2020-12-28 14:08:19",
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609135699263
+   },
+   {
+    "localtime": "2020-12-28 14:08:23",
+    "FL_p": 0.0070827627,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609135703263
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:08:27",
+    "timestamp": 1609135707263,
+    "FL_p": 0.007053416
+   },
+   {
+    "FL_p": 0.0070240693,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609135711263,
+    "localtime": "2020-12-28 14:08:31"
+   },
+   {
+    "timestamp": 1609135715263,
+    "FL_p": 0.0069947224,
+    "localtime": "2020-12-28 14:08:35",
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609135719263,
+    "FL_p": 0.006965376,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:08:39"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:08:43",
+    "timestamp": 1609135723263,
+    "FL_p": 0.006936029
+   },
+   {
+    "FL_p": 0.006906682,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609135727263,
+    "localtime": "2020-12-28 14:08:47"
+   },
+   {
+    "timestamp": 1609135731263,
+    "FL_p": 0.0068773357,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:08:51"
+   },
+   {
+    "localtime": "2020-12-28 14:08:55",
+    "FL_p": 0.006847989,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609135735263
+   },
+   {
+    "timestamp": 1609135739263,
+    "FL_p": 0.006818642,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:08:59"
+   },
+   {
+    "timestamp": 1609135743263,
+    "localtime": "2020-12-28 14:09:03",
+    "FL_p": 0.006789295,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609135747263,
+    "FL_p": 0.0066905622,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:09:07"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609135751263,
+    "FL_p": 0.0065918295,
+    "localtime": "2020-12-28 14:09:11"
+   },
+   {
+    "timestamp": 1609135755263,
+    "FL_p": 0.0064930967,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:09:15"
+   },
+   {
+    "localtime": "2020-12-28 14:09:19",
+    "timestamp": 1609135759263,
+    "FL_p": 0.0063943635,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609135763263,
+    "FL_p": 0.0062956307,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:09:23"
+   },
+   {
+    "timestamp": 1609135767263,
+    "FL_p": 0.006196898,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:09:27"
+   },
+   {
+    "FL_p": 0.006098165,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609135771263,
+    "localtime": "2020-12-28 14:09:31"
+   },
+   {
+    "timestamp": 1609135775263,
+    "FL_p": 0.005999432,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:09:35"
+   },
+   {
+    "timestamp": 1609135779263,
+    "FL_p": 0.005900699,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:09:39"
+   },
+   {
+    "timestamp": 1609135783263,
+    "FL_p": 0.0058019664,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:09:43"
+   },
+   {
+    "localtime": "2020-12-28 14:09:47",
+    "timestamp": 1609135787263,
+    "FL_p": 0.005703233,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "localtime": "2020-12-28 14:09:51",
+    "timestamp": 1609135791263,
+    "FL_p": 0.0056045004,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609135795263,
+    "FL_p": 0.0055057677,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:09:55"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609135799263,
+    "FL_p": 0.005407035,
+    "localtime": "2020-12-28 14:09:59"
+   },
+   {
+    "timestamp": 1609135803263,
+    "FL_p": 0.0053083017,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:10:03"
+   },
+   {
+    "timestamp": 1609135807263,
+    "FL_p": 0.005365493,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:10:07"
+   },
+   {
+    "timestamp": 1609135811263,
+    "FL_p": 0.005422684,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:10:11"
+   },
+   {
+    "timestamp": 1609135815263,
+    "FL_p": 0.005479875,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:10:15"
+   },
+   {
+    "timestamp": 1609135819263,
+    "FL_p": 0.005537066,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:10:19"
+   },
+   {
+    "timestamp": 1609135823263,
+    "FL_p": 0.0055942573,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:10:23"
+   },
+   {
+    "timestamp": 1609135827263,
+    "FL_p": 0.0056514484,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:10:27"
+   },
+   {
+    "FL_p": 0.0057086395,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:10:31",
+    "timestamp": 1609135831263
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609135835263,
+    "localtime": "2020-12-28 14:10:35",
+    "FL_p": 0.0057658306
+   },
+   {
+    "timestamp": 1609135839263,
+    "FL_p": 0.0058230218,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:10:39"
+   },
+   {
+    "timestamp": 1609135843263,
+    "FL_p": 0.005880213,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:10:43"
+   },
+   {
+    "timestamp": 1609135847263,
+    "FL_p": 0.005937404,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:10:47"
+   },
+   {
+    "timestamp": 1609135851263,
+    "FL_p": 0.005994595,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:10:51"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609135855263,
+    "FL_p": 0.0060517862,
+    "localtime": "2020-12-28 14:10:55"
+   },
+   {
+    "localtime": "2020-12-28 14:10:59",
+    "timestamp": 1609135859263,
+    "FL_p": 0.0061089774,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609135863263,
+    "FL_p": 0.0061661685,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:11:03"
+   },
+   {
+    "timestamp": 1609135867263,
+    "localtime": "2020-12-28 14:11:07",
+    "FL_p": 0.006127967,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "FL_p": 0.0060897656,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609135871263,
+    "localtime": "2020-12-28 14:11:11"
+   },
+   {
+    "FL_p": 0.006051564,
+    "localtime": "2020-12-28 14:11:15",
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609135875263
+   },
+   {
+    "FL_p": 0.0060133627,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609135879263,
+    "localtime": "2020-12-28 14:11:19"
+   },
+   {
+    "localtime": "2020-12-28 14:11:23",
+    "timestamp": 1609135883263,
+    "FL_p": 0.0059751617,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609135887263,
+    "FL_p": 0.00593696,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:11:27"
+   },
+   {
+    "timestamp": 1609135891263,
+    "FL_p": 0.005898759,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:11:31"
+   },
+   {
+    "FL_p": 0.0058605573,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:11:35",
+    "timestamp": 1609135895263
+   },
+   {
+    "timestamp": 1609135899263,
+    "FL_p": 0.005822356,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:11:39"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609135903263,
+    "FL_p": 0.005784155,
+    "localtime": "2020-12-28 14:11:43"
+   },
+   {
+    "timestamp": 1609135907263,
+    "FL_p": 0.0057459534,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:11:47"
+   },
+   {
+    "localtime": "2020-12-28 14:11:51",
+    "timestamp": 1609135911263,
+    "FL_p": 0.005707752,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609135915263,
+    "FL_p": 0.0056695505,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:11:55"
+   },
+   {
+    "timestamp": 1609135919263,
+    "FL_p": 0.005631349,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:11:59"
+   },
+   {
+    "timestamp": 1609135923263,
+    "FL_p": 0.005593148,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:12:03"
+   },
+   {
+    "timestamp": 1609135927263,
+    "FL_p": 0.0056097563,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:12:07"
+   },
+   {
+    "timestamp": 1609135931263,
+    "FL_p": 0.0056263646,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:12:11"
+   },
+   {
+    "timestamp": 1609135935263,
+    "FL_p": 0.005642973,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:12:15"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609135939263,
+    "FL_p": 0.005659581,
+    "localtime": "2020-12-28 14:12:19"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609135943263,
+    "FL_p": 0.0056761894,
+    "localtime": "2020-12-28 14:12:23"
+   },
+   {
+    "timestamp": 1609135947263,
+    "FL_p": 0.0056927977,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:12:27"
+   },
+   {
+    "timestamp": 1609135951263,
+    "FL_p": 0.0057094065,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:12:31"
+   },
+   {
+    "FL_p": 0.0057260147,
+    "localtime": "2020-12-28 14:12:35",
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609135955263
+   },
+   {
+    "FL_p": 0.005742623,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:12:39",
+    "timestamp": 1609135959263
+   },
+   {
+    "timestamp": 1609135963263,
+    "FL_p": 0.0057592313,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:12:43"
+   },
+   {
+    "timestamp": 1609135967263,
+    "FL_p": 0.0057758396,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:12:47"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609135971263,
+    "FL_p": 0.005792448,
+    "localtime": "2020-12-28 14:12:51"
+   },
+   {
+    "timestamp": 1609135975263,
+    "FL_p": 0.005809056,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:12:55"
+   },
+   {
+    "timestamp": 1609135979263,
+    "FL_p": 0.005825665,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:12:59"
+   },
+   {
+    "localtime": "2020-12-28 14:13:03",
+    "timestamp": 1609135983263,
+    "FL_p": 0.005842273,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609135987263,
+    "FL_p": 0.005867258,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:13:07"
+   },
+   {
+    "localtime": "2020-12-28 14:13:11",
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609135991263,
+    "FL_p": 0.0058922432
+   },
+   {
+    "localtime": "2020-12-28 14:13:15",
+    "timestamp": 1609135995263,
+    "FL_p": 0.0059172283,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609135999263,
+    "FL_p": 0.0059422133,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:13:19"
+   },
+   {
+    "timestamp": 1609136003263,
+    "FL_p": 0.0059671984,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:13:23"
+   },
+   {
+    "timestamp": 1609136007263,
+    "FL_p": 0.0059921835,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:13:27"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609136011263,
+    "FL_p": 0.0060171685,
+    "localtime": "2020-12-28 14:13:31"
+   },
+   {
+    "timestamp": 1609136015263,
+    "FL_p": 0.006042154,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:13:35"
+   },
+   {
+    "timestamp": 1609136019263,
+    "FL_p": 0.006067139,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:13:39"
+   },
+   {
+    "localtime": "2020-12-28 14:13:43",
+    "timestamp": 1609136023263,
+    "FL_p": 0.006092124,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "FL_p": 0.006117109,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609136027263,
+    "localtime": "2020-12-28 14:13:47"
+   },
+   {
+    "FL_p": 0.0061420943,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609136031263,
+    "localtime": "2020-12-28 14:13:51"
+   },
+   {
+    "timestamp": 1609136035263,
+    "FL_p": 0.0061670793,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:13:55"
+   },
+   {
+    "timestamp": 1609136039263,
+    "FL_p": 0.0061920644,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:13:59"
+   },
+   {
+    "localtime": "2020-12-28 14:14:03",
+    "timestamp": 1609136043263,
+    "FL_p": 0.0062170494,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609136047263,
+    "FL_p": 0.0062701795,
+    "localtime": "2020-12-28 14:14:07"
+   },
+   {
+    "timestamp": 1609136051263,
+    "FL_p": 0.006323309,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:14:11"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609136055263,
+    "FL_p": 0.0063764392,
+    "localtime": "2020-12-28 14:14:15"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609136059263,
+    "FL_p": 0.006429569,
+    "localtime": "2020-12-28 14:14:19"
+   },
+   {
+    "localtime": "2020-12-28 14:14:23",
+    "timestamp": 1609136063263,
+    "FL_p": 0.0064826985,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "localtime": "2020-12-28 14:14:27",
+    "FL_p": 0.0065358286,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609136067263
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609136071263,
+    "FL_p": 0.006588958,
+    "localtime": "2020-12-28 14:14:31"
+   },
+   {
+    "timestamp": 1609136075263,
+    "FL_p": 0.006642088,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:14:35"
+   },
+   {
+    "timestamp": 1609136079263,
+    "FL_p": 0.006695218,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:14:39"
+   },
+   {
+    "FL_p": 0.0067483475,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609136083263,
+    "localtime": "2020-12-28 14:14:43"
+   },
+   {
+    "FL_p": 0.0068014776,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609136087263,
+    "localtime": "2020-12-28 14:14:47"
+   },
+   {
+    "timestamp": 1609136091263,
+    "FL_p": 0.0068546073,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:14:51"
+   },
+   {
+    "FL_p": 0.006907737,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609136095263,
+    "localtime": "2020-12-28 14:14:55"
+   },
+   {
+    "timestamp": 1609136099263,
+    "FL_p": 0.006960867,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:14:59"
+   },
+   {
+    "localtime": "2020-12-28 14:15:03",
+    "timestamp": 1609136103263,
+    "FL_p": 0.0070139966,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609136107263,
+    "FL_p": 0.0070615327,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:15:07"
+   },
+   {
+    "localtime": "2020-12-28 14:15:11",
+    "timestamp": 1609136111263,
+    "FL_p": 0.007109069,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609136115263,
+    "FL_p": 0.0071566054,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:15:15"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:15:19",
+    "timestamp": 1609136119263,
+    "FL_p": 0.0072041415
+   },
+   {
+    "localtime": "2020-12-28 14:15:23",
+    "timestamp": 1609136123263,
+    "FL_p": 0.0072516776,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609136127263,
+    "FL_p": 0.0072992137,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:15:27"
+   },
+   {
+    "timestamp": 1609136131263,
+    "FL_p": 0.00734675,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:15:31"
+   },
+   {
+    "FL_p": 0.007394286,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:15:35",
+    "timestamp": 1609136135263
+   },
+   {
+    "timestamp": 1609136139263,
+    "FL_p": 0.007441822,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:15:39"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:15:43",
+    "timestamp": 1609136143263,
+    "FL_p": 0.0074893585
+   },
+   {
+    "FL_p": 0.0075368946,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:15:47",
+    "timestamp": 1609136147263
+   },
+   {
+    "timestamp": 1609136151263,
+    "FL_p": 0.0075844307,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:15:51"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609136155263,
+    "localtime": "2020-12-28 14:15:55",
+    "FL_p": 0.007631967
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609136159263,
+    "FL_p": 0.007679503,
+    "localtime": "2020-12-28 14:15:59"
+   },
+   {
+    "timestamp": 1609136163263,
+    "FL_p": 0.007727039,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:16:03"
+   },
+   {
+    "timestamp": 1609136167263,
+    "FL_p": 0.007814166,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:16:07"
+   },
+   {
+    "localtime": "2020-12-28 14:16:11",
+    "timestamp": 1609136171263,
+    "FL_p": 0.007901293,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609136175263,
+    "FL_p": 0.007988421,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:16:15"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609136179263,
+    "localtime": "2020-12-28 14:16:19",
+    "FL_p": 0.008075548
+   },
+   {
+    "FL_p": 0.008162675,
+    "localtime": "2020-12-28 14:16:23",
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609136183263
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:16:27",
+    "timestamp": 1609136187263,
+    "FL_p": 0.0082498025
+   },
+   {
+    "timestamp": 1609136191263,
+    "FL_p": 0.00833693,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:16:31"
+   },
+   {
+    "timestamp": 1609136195263,
+    "FL_p": 0.008424057,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:16:35"
+   },
+   {
+    "timestamp": 1609136199263,
+    "FL_p": 0.008511184,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:16:39"
+   },
+   {
+    "timestamp": 1609136203263,
+    "FL_p": 0.008598312,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:16:43"
+   },
+   {
+    "timestamp": 1609136207263,
+    "FL_p": 0.008685439,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:16:47"
+   },
+   {
+    "FL_p": 0.008772566,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609136211263,
+    "localtime": "2020-12-28 14:16:51"
+   },
+   {
+    "timestamp": 1609136215263,
+    "FL_p": 0.008859693,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:16:55"
+   },
+   {
+    "timestamp": 1609136219263,
+    "FL_p": 0.00894682,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:16:59"
+   },
+   {
+    "timestamp": 1609136223263,
+    "FL_p": 0.009033947,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:17:03"
+   },
+   {
+    "localtime": "2020-12-28 14:17:07",
+    "timestamp": 1609136227263,
+    "FL_p": 0.009139877,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609136231263,
+    "FL_p": 0.009245806,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:17:11"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609136235263,
+    "FL_p": 0.009351735,
+    "localtime": "2020-12-28 14:17:15"
+   },
+   {
+    "timestamp": 1609136239263,
+    "FL_p": 0.009457665,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:17:19"
+   },
+   {
+    "timestamp": 1609136243263,
+    "FL_p": 0.009563594,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:17:23"
+   },
+   {
+    "timestamp": 1609136247263,
+    "FL_p": 0.009669523,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:17:27"
+   },
+   {
+    "localtime": "2020-12-28 14:17:31",
+    "FL_p": 0.009775452,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609136251263
+   },
+   {
+    "timestamp": 1609136255263,
+    "FL_p": 0.009881382,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:17:35"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609136259263,
+    "FL_p": 0.0099873105,
+    "localtime": "2020-12-28 14:17:39"
+   },
+   {
+    "timestamp": 1609136263263,
+    "FL_p": 0.01009324,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:17:43"
+   },
+   {
+    "localtime": "2020-12-28 14:17:47",
+    "timestamp": 1609136267263,
+    "FL_p": 0.01019917,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609136271263,
+    "FL_p": 0.010305098,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:17:51"
+   },
+   {
+    "timestamp": 1609136275263,
+    "FL_p": 0.010411028,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:17:55"
+   },
+   {
+    "localtime": "2020-12-28 14:17:59",
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609136279263,
+    "FL_p": 0.010516957
+   },
+   {
+    "FL_p": 0.010622887,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609136283263,
+    "localtime": "2020-12-28 14:18:03"
+   },
+   {
+    "localtime": "2020-12-28 14:18:07",
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609136287263,
+    "FL_p": 0.010634714
+   },
+   {
+    "timestamp": 1609136291263,
+    "FL_p": 0.010646542,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:18:11"
+   },
+   {
+    "timestamp": 1609136295263,
+    "FL_p": 0.0106583685,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:18:15"
+   },
+   {
+    "FL_p": 0.010670196,
+    "localtime": "2020-12-28 14:18:19",
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609136299263
+   },
+   {
+    "timestamp": 1609136303263,
+    "FL_p": 0.010682023,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:18:23"
+   },
+   {
+    "FL_p": 0.010693851,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:18:27",
+    "timestamp": 1609136307263
+   },
+   {
+    "timestamp": 1609136311263,
+    "FL_p": 0.010705678,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:18:31"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:18:35",
+    "timestamp": 1609136315263,
+    "FL_p": 0.010717506
+   },
+   {
+    "timestamp": 1609136319263,
+    "FL_p": 0.010729332,
+    "localtime": "2020-12-28 14:18:39",
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609136323263,
+    "FL_p": 0.01074116,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:18:43"
+   },
+   {
+    "localtime": "2020-12-28 14:18:47",
+    "timestamp": 1609136327263,
+    "FL_p": 0.010752987,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "localtime": "2020-12-28 14:18:51",
+    "timestamp": 1609136331263,
+    "FL_p": 0.010764815,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "localtime": "2020-12-28 14:18:55",
+    "FL_p": 0.010776642,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609136335263
+   },
+   {
+    "timestamp": 1609136339263,
+    "FL_p": 0.01078847,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:18:59"
+   },
+   {
+    "timestamp": 1609136343263,
+    "FL_p": 0.010800296,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:19:03"
+   },
+   {
+    "FL_p": 0.010794555,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609136347263,
+    "localtime": "2020-12-28 14:19:07"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609136351263,
+    "localtime": "2020-12-28 14:19:11",
+    "FL_p": 0.010788812
+   },
+   {
+    "FL_p": 0.01078307,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:19:15",
+    "timestamp": 1609136355263
+   },
+   {
+    "FL_p": 0.010777327,
+    "localtime": "2020-12-28 14:19:19",
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609136359263
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:19:23",
+    "timestamp": 1609136363263,
+    "FL_p": 0.010771586
+   },
+   {
+    "localtime": "2020-12-28 14:19:27",
+    "timestamp": 1609136367263,
+    "FL_p": 0.010765843,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609136371263,
+    "FL_p": 0.010760101,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:19:31"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:19:35",
+    "timestamp": 1609136375263,
+    "FL_p": 0.010754358
+   },
+   {
+    "FL_p": 0.0107486155,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:19:39",
+    "timestamp": 1609136379263
+   },
+   {
+    "timestamp": 1609136383263,
+    "FL_p": 0.010742874,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:19:43"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:19:47",
+    "timestamp": 1609136387263,
+    "FL_p": 0.010737131
+   },
+   {
+    "FL_p": 0.010731389,
+    "localtime": "2020-12-28 14:19:51",
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609136391263
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609136395263,
+    "FL_p": 0.010725646,
+    "localtime": "2020-12-28 14:19:55"
+   },
+   {
+    "FL_p": 0.010719904,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:19:59",
+    "timestamp": 1609136399263
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:20:03",
+    "timestamp": 1609136403263,
+    "FL_p": 0.010714162
+   },
+   {
+    "timestamp": 1609136407263,
+    "FL_p": 0.01068892,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:20:07"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:20:11",
+    "timestamp": 1609136411263,
+    "FL_p": 0.010663677
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:20:15",
+    "timestamp": 1609136415263,
+    "FL_p": 0.0106384335
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:20:19",
+    "timestamp": 1609136419263,
+    "FL_p": 0.010613191
+   },
+   {
+    "localtime": "2020-12-28 14:20:23",
+    "timestamp": 1609136423263,
+    "FL_p": 0.010587948,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609136427263,
+    "FL_p": 0.010562706,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:20:27"
+   },
+   {
+    "timestamp": 1609136431263,
+    "FL_p": 0.010537463,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:20:31"
+   },
+   {
+    "timestamp": 1609136435263,
+    "FL_p": 0.010512221,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:20:35"
+   },
+   {
+    "localtime": "2020-12-28 14:20:39",
+    "timestamp": 1609136439263,
+    "FL_p": 0.010486978,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609136443263,
+    "FL_p": 0.010461736,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:20:43"
+   },
+   {
+    "localtime": "2020-12-28 14:20:47",
+    "FL_p": 0.010436493,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609136447263
+   },
+   {
+    "localtime": "2020-12-28 14:20:51",
+    "timestamp": 1609136451263,
+    "FL_p": 0.01041125,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609136455263,
+    "FL_p": 0.010386007,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:20:55"
+   },
+   {
+    "FL_p": 0.010360764,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:20:59",
+    "timestamp": 1609136459263
+   },
+   {
+    "timestamp": 1609136463263,
+    "FL_p": 0.010335522,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:21:03"
+   },
+   {
+    "timestamp": 1609136467263,
+    "FL_p": 0.010281202,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:21:07"
+   },
+   {
+    "timestamp": 1609136471263,
+    "FL_p": 0.010226883,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:21:11"
+   },
+   {
+    "localtime": "2020-12-28 14:21:15",
+    "timestamp": 1609136475263,
+    "FL_p": 0.010172564,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609136479263,
+    "FL_p": 0.010118244,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:21:19"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609136483263,
+    "localtime": "2020-12-28 14:21:23",
+    "FL_p": 0.010063925
+   },
+   {
+    "timestamp": 1609136487263,
+    "FL_p": 0.010009605,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:21:27"
+   },
+   {
+    "timestamp": 1609136491263,
+    "FL_p": 0.009955286,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:21:31"
+   },
+   {
+    "timestamp": 1609136495263,
+    "FL_p": 0.009900967,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:21:35"
+   },
+   {
+    "timestamp": 1609136499263,
+    "FL_p": 0.009846647,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:21:39"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609136503263,
+    "FL_p": 0.009792328,
+    "localtime": "2020-12-28 14:21:43"
+   },
+   {
+    "timestamp": 1609136507263,
+    "FL_p": 0.0097380085,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:21:47"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609136511263,
+    "localtime": "2020-12-28 14:21:51",
+    "FL_p": 0.009683689
+   },
+   {
+    "timestamp": 1609136515263,
+    "FL_p": 0.00962937,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:21:55"
+   },
+   {
+    "timestamp": 1609136519263,
+    "FL_p": 0.00957505,
+    "localtime": "2020-12-28 14:21:59",
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "FL_p": 0.009520731,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:22:03",
+    "timestamp": 1609136523263
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:22:07",
+    "timestamp": 1609136527263,
+    "FL_p": 0.009474971
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609136531263,
+    "FL_p": 0.009429212,
+    "localtime": "2020-12-28 14:22:11"
+   },
+   {
+    "localtime": "2020-12-28 14:22:15",
+    "timestamp": 1609136535263,
+    "FL_p": 0.009383452,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609136539263,
+    "FL_p": 0.009337692,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:22:19"
+   },
+   {
+    "timestamp": 1609136543263,
+    "FL_p": 0.009291932,
+    "localtime": "2020-12-28 14:22:23",
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "FL_p": 0.009246172,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:22:27",
+    "timestamp": 1609136547263
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:22:31",
+    "timestamp": 1609136551263,
+    "FL_p": 0.009200413
+   },
+   {
+    "timestamp": 1609136555263,
+    "FL_p": 0.009154653,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:22:35"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:22:39",
+    "timestamp": 1609136559263,
+    "FL_p": 0.009108894
+   },
+   {
+    "timestamp": 1609136563263,
+    "FL_p": 0.009063133,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:22:43"
+   },
+   {
+    "localtime": "2020-12-28 14:22:47",
+    "timestamp": 1609136567263,
+    "FL_p": 0.009017373,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:22:51",
+    "timestamp": 1609136571263,
+    "FL_p": 0.008971614
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:22:55",
+    "timestamp": 1609136575263,
+    "FL_p": 0.008925854
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609136579263,
+    "localtime": "2020-12-28 14:22:59",
+    "FL_p": 0.008880095
+   },
+   {
+    "timestamp": 1609136583263,
+    "FL_p": 0.008834334,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:23:03"
+   },
+   {
+    "timestamp": 1609136587263,
+    "FL_p": 0.008858223,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:23:07"
+   },
+   {
+    "timestamp": 1609136591263,
+    "FL_p": 0.008882112,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:23:11"
+   },
+   {
+    "FL_p": 0.008906,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609136595263,
+    "localtime": "2020-12-28 14:23:15"
+   },
+   {
+    "timestamp": 1609136599263,
+    "FL_p": 0.008929889,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:23:19"
+   },
+   {
+    "localtime": "2020-12-28 14:23:23",
+    "timestamp": 1609136603263,
+    "FL_p": 0.008953778,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "FL_p": 0.0089776665,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:23:27",
+    "timestamp": 1609136607263
+   },
+   {
+    "FL_p": 0.009001555,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609136611263,
+    "localtime": "2020-12-28 14:23:31"
+   },
+   {
+    "timestamp": 1609136615263,
+    "FL_p": 0.009025443,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:23:35"
+   },
+   {
+    "localtime": "2020-12-28 14:23:39",
+    "timestamp": 1609136619263,
+    "FL_p": 0.009049333,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "FL_p": 0.009073221,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609136623263,
+    "localtime": "2020-12-28 14:23:43"
+   },
+   {
+    "timestamp": 1609136627263,
+    "FL_p": 0.00909711,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:23:47"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:23:51",
+    "timestamp": 1609136631263,
+    "FL_p": 0.009120998
+   },
+   {
+    "localtime": "2020-12-28 14:23:55",
+    "timestamp": 1609136635263,
+    "FL_p": 0.009144886,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "FL_p": 0.009168776,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:23:59",
+    "timestamp": 1609136639263
+   },
+   {
+    "timestamp": 1609136643263,
+    "FL_p": 0.009192664,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:24:03"
+   },
+   {
+    "timestamp": 1609136647263,
+    "FL_p": 0.009167697,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:24:07"
+   },
+   {
+    "timestamp": 1609136651263,
+    "FL_p": 0.00914273,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:24:11"
+   },
+   {
+    "timestamp": 1609136655263,
+    "FL_p": 0.0091177635,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:24:15"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:24:19",
+    "timestamp": 1609136659263,
+    "FL_p": 0.009092797
+   },
+   {
+    "FL_p": 0.00906783,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609136663263,
+    "localtime": "2020-12-28 14:24:23"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609136667263,
+    "FL_p": 0.009042863,
+    "localtime": "2020-12-28 14:24:27"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:24:31",
+    "timestamp": 1609136671263,
+    "FL_p": 0.009017897
+   },
+   {
+    "FL_p": 0.00899293,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609136675263,
+    "localtime": "2020-12-28 14:24:35"
+   },
+   {
+    "FL_p": 0.008967963,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609136679263,
+    "localtime": "2020-12-28 14:24:39"
+   },
+   {
+    "FL_p": 0.008942996,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609136683263,
+    "localtime": "2020-12-28 14:24:43"
+   },
+   {
+    "timestamp": 1609136687263,
+    "FL_p": 0.008918029,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:24:47"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609136691263,
+    "FL_p": 0.008893062,
+    "localtime": "2020-12-28 14:24:51"
+   },
+   {
+    "FL_p": 0.008868095,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609136695263,
+    "localtime": "2020-12-28 14:24:55"
+   },
+   {
+    "timestamp": 1609136699263,
+    "FL_p": 0.008843129,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:24:59"
+   },
+   {
+    "timestamp": 1609136703263,
+    "FL_p": 0.008818162,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:25:03"
+   },
+   {
+    "timestamp": 1609136707263,
+    "FL_p": 0.008713681,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:25:07"
+   },
+   {
+    "timestamp": 1609136711263,
+    "FL_p": 0.0086092,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:25:11"
+   },
+   {
+    "timestamp": 1609136715263,
+    "FL_p": 0.008504719,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:25:15"
+   },
+   {
+    "FL_p": 0.008400238,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609136719263,
+    "localtime": "2020-12-28 14:25:19"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609136723263,
+    "FL_p": 0.008295757,
+    "localtime": "2020-12-28 14:25:23"
+   },
+   {
+    "timestamp": 1609136727263,
+    "localtime": "2020-12-28 14:25:27",
+    "FL_p": 0.008191275,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "FL_p": 0.008086795,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:25:31",
+    "timestamp": 1609136731263
+   },
+   {
+    "localtime": "2020-12-28 14:25:35",
+    "timestamp": 1609136735263,
+    "FL_p": 0.007982314,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "localtime": "2020-12-28 14:25:39",
+    "timestamp": 1609136739263,
+    "FL_p": 0.007877832,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:25:43",
+    "timestamp": 1609136743263,
+    "FL_p": 0.0077733514
+   },
+   {
+    "timestamp": 1609136747263,
+    "FL_p": 0.0076688705,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:25:47"
+   },
+   {
+    "timestamp": 1609136751263,
+    "FL_p": 0.0075643896,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:25:51"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609136755263,
+    "FL_p": 0.0074599083,
+    "localtime": "2020-12-28 14:25:55"
+   },
+   {
+    "timestamp": 1609136759263,
+    "FL_p": 0.0073554274,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:25:59"
+   },
+   {
+    "localtime": "2020-12-28 14:26:03",
+    "timestamp": 1609136763263,
+    "FL_p": 0.0072509465,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "FL_p": 0.007310185,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609136767263,
+    "localtime": "2020-12-28 14:26:07"
+   },
+   {
+    "FL_p": 0.0073694238,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609136771263,
+    "localtime": "2020-12-28 14:26:11"
+   },
+   {
+    "timestamp": 1609136775263,
+    "FL_p": 0.0074286624,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:26:15"
+   },
+   {
+    "localtime": "2020-12-28 14:26:19",
+    "timestamp": 1609136779263,
+    "FL_p": 0.0074879006,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609136783263,
+    "FL_p": 0.007547139,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:26:23"
+   },
+   {
+    "timestamp": 1609136787263,
+    "FL_p": 0.007606378,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:26:27"
+   },
+   {
+    "FL_p": 0.0076656165,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609136791263,
+    "localtime": "2020-12-28 14:26:31"
+   },
+   {
+    "timestamp": 1609136795263,
+    "FL_p": 0.007724855,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:26:35"
+   },
+   {
+    "FL_p": 0.0077840937,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:26:39",
+    "timestamp": 1609136799263
+   },
+   {
+    "timestamp": 1609136803263,
+    "FL_p": 0.007843332,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:26:43"
+   },
+   {
+    "timestamp": 1609136807263,
+    "FL_p": 0.007902571,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:26:47"
+   },
+   {
+    "timestamp": 1609136811263,
+    "FL_p": 0.00796181,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:26:51"
+   },
+   {
+    "FL_p": 0.008021048,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:26:55",
+    "timestamp": 1609136815263
+   },
+   {
+    "timestamp": 1609136819263,
+    "FL_p": 0.008080287,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:26:59"
+   },
+   {
+    "localtime": "2020-12-28 14:27:03",
+    "timestamp": 1609136823263,
+    "FL_p": 0.008139526,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "FL_p": 0.008164966,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609136827263,
+    "localtime": "2020-12-28 14:27:07"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:27:11",
+    "timestamp": 1609136831263,
+    "FL_p": 0.008190406
+   },
+   {
+    "timestamp": 1609136835263,
+    "FL_p": 0.008215846,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:27:15"
+   },
+   {
+    "timestamp": 1609136839263,
+    "FL_p": 0.008241286,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:27:19"
+   },
+   {
+    "timestamp": 1609136843263,
+    "FL_p": 0.008266725,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:27:23"
+   },
+   {
+    "timestamp": 1609136847263,
+    "FL_p": 0.008292165,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:27:27"
+   },
+   {
+    "timestamp": 1609136851263,
+    "localtime": "2020-12-28 14:27:31",
+    "FL_p": 0.008317605,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609136855263,
+    "FL_p": 0.008343045,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:27:35"
+   },
+   {
+    "timestamp": 1609136859263,
+    "FL_p": 0.008368485,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:27:39"
+   },
+   {
+    "timestamp": 1609136863263,
+    "FL_p": 0.008393925,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:27:43"
+   },
+   {
+    "timestamp": 1609136867263,
+    "FL_p": 0.008419365,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:27:47"
+   },
+   {
+    "FL_p": 0.008444805,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:27:51",
+    "timestamp": 1609136871263
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:27:55",
+    "timestamp": 1609136875263,
+    "FL_p": 0.008470245
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:27:59",
+    "timestamp": 1609136879263,
+    "FL_p": 0.008495685
+   },
+   {
+    "localtime": "2020-12-28 14:28:03",
+    "timestamp": 1609136883263,
+    "FL_p": 0.008521125,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609136887263,
+    "FL_p": 0.0085387025,
+    "localtime": "2020-12-28 14:28:07"
+   },
+   {
+    "timestamp": 1609136891263,
+    "FL_p": 0.00855628,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:28:11"
+   },
+   {
+    "localtime": "2020-12-28 14:28:15",
+    "timestamp": 1609136895263,
+    "FL_p": 0.008573858,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "localtime": "2020-12-28 14:28:19",
+    "timestamp": 1609136899263,
+    "FL_p": 0.008591436,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609136903263,
+    "FL_p": 0.008609014,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:28:23"
+   },
+   {
+    "timestamp": 1609136907263,
+    "FL_p": 0.008626591,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:28:27"
+   },
+   {
+    "FL_p": 0.008644169,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:28:31",
+    "timestamp": 1609136911263
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609136915263,
+    "localtime": "2020-12-28 14:28:35",
+    "FL_p": 0.008661747
+   },
+   {
+    "timestamp": 1609136919263,
+    "FL_p": 0.008679325,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:28:39"
+   },
+   {
+    "timestamp": 1609136923263,
+    "FL_p": 0.008696903,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:28:43"
+   },
+   {
+    "timestamp": 1609136927263,
+    "FL_p": 0.00871448,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:28:47"
+   },
+   {
+    "timestamp": 1609136931263,
+    "FL_p": 0.008732058,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:28:51"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609136935263,
+    "FL_p": 0.008749636,
+    "localtime": "2020-12-28 14:28:55"
+   },
+   {
+    "timestamp": 1609136939263,
+    "FL_p": 0.008767214,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:28:59"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609136943263,
+    "FL_p": 0.008784791,
+    "localtime": "2020-12-28 14:29:03"
+   },
+   {
+    "localtime": "2020-12-28 14:29:07",
+    "timestamp": 1609136947263,
+    "FL_p": 0.008788779,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609136951263,
+    "FL_p": 0.008792767,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:29:11"
+   },
+   {
+    "FL_p": 0.008796755,
+    "localtime": "2020-12-28 14:29:15",
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609136955263
+   },
+   {
+    "timestamp": 1609136959263,
+    "FL_p": 0.008800743,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:29:19"
+   },
+   {
+    "timestamp": 1609136963263,
+    "FL_p": 0.008804731,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:29:23"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609136967263,
+    "FL_p": 0.008808719,
+    "localtime": "2020-12-28 14:29:27"
+   },
+   {
+    "timestamp": 1609136971263,
+    "FL_p": 0.008812707,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:29:31"
+   },
+   {
+    "localtime": "2020-12-28 14:29:35",
+    "timestamp": 1609136975263,
+    "FL_p": 0.008816695,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609136979263,
+    "FL_p": 0.008820683,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:29:39"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:29:43",
+    "timestamp": 1609136983263,
+    "FL_p": 0.008824671
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609136987263,
+    "FL_p": 0.008828659,
+    "localtime": "2020-12-28 14:29:47"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609136991263,
+    "FL_p": 0.0088326465,
+    "localtime": "2020-12-28 14:29:51"
+   },
+   {
+    "timestamp": 1609136995263,
+    "FL_p": 0.008836634,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:29:55"
+   },
+   {
+    "timestamp": 1609136999263,
+    "FL_p": 0.008840622,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:29:59"
+   },
+   {
+    "timestamp": 1609137003263,
+    "FL_p": 0.00884461,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:30:03"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:30:07",
+    "timestamp": 1609137007263,
+    "FL_p": 0.008801119
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:30:11",
+    "timestamp": 1609137011263,
+    "FL_p": 0.008757628
+   },
+   {
+    "timestamp": 1609137015263,
+    "FL_p": 0.008714137,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:30:15"
+   },
+   {
+    "timestamp": 1609137019263,
+    "FL_p": 0.008670645,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:30:19"
+   },
+   {
+    "timestamp": 1609137023263,
+    "FL_p": 0.008627154,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:30:23"
+   },
+   {
+    "localtime": "2020-12-28 14:30:27",
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609137027263,
+    "FL_p": 0.008583662
+   },
+   {
+    "localtime": "2020-12-28 14:30:31",
+    "timestamp": 1609137031263,
+    "FL_p": 0.008540171,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "FL_p": 0.008496679,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:30:35",
+    "timestamp": 1609137035263
+   },
+   {
+    "FL_p": 0.008453188,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:30:39",
+    "timestamp": 1609137039263
+   },
+   {
+    "timestamp": 1609137043263,
+    "localtime": "2020-12-28 14:30:43",
+    "FL_p": 0.008409697,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "FL_p": 0.008366206,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:30:47",
+    "timestamp": 1609137047263
+   },
+   {
+    "localtime": "2020-12-28 14:30:51",
+    "timestamp": 1609137051263,
+    "FL_p": 0.008322714,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609137055263,
+    "FL_p": 0.008279223,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:30:55"
+   },
+   {
+    "timestamp": 1609137059263,
+    "FL_p": 0.008235731,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:30:59"
+   },
+   {
+    "timestamp": 1609137063263,
+    "FL_p": 0.00819224,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:31:03"
+   },
+   {
+    "timestamp": 1609137067263,
+    "FL_p": 0.008202044,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:31:07"
+   },
+   {
+    "timestamp": 1609137071263,
+    "FL_p": 0.008211848,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:31:11"
+   },
+   {
+    "timestamp": 1609137075263,
+    "FL_p": 0.008221652,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:31:15"
+   },
+   {
+    "timestamp": 1609137079263,
+    "FL_p": 0.008231456,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:31:19"
+   },
+   {
+    "timestamp": 1609137083263,
+    "FL_p": 0.00824126,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:31:23"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:31:27",
+    "timestamp": 1609137087263,
+    "FL_p": 0.008251064
+   },
+   {
+    "FL_p": 0.0082608685,
+    "localtime": "2020-12-28 14:31:31",
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609137091263
+   },
+   {
+    "timestamp": 1609137095263,
+    "FL_p": 0.0082706725,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:31:35"
+   },
+   {
+    "timestamp": 1609137099263,
+    "FL_p": 0.008280476,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:31:39"
+   },
+   {
+    "timestamp": 1609137103263,
+    "FL_p": 0.00829028,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:31:43"
+   },
+   {
+    "FL_p": 0.008300084,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609137107263,
+    "localtime": "2020-12-28 14:31:47"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609137111263,
+    "FL_p": 0.008309888,
+    "localtime": "2020-12-28 14:31:51"
+   },
+   {
+    "timestamp": 1609137115263,
+    "FL_p": 0.008319692,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:31:55"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609137119263,
+    "FL_p": 0.008329496,
+    "localtime": "2020-12-28 14:31:59"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:32:03",
+    "timestamp": 1609137123263,
+    "FL_p": 0.0083393
+   },
+   {
+    "FL_p": 0.008318971,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:32:07",
+    "timestamp": 1609137127263
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609137131263,
+    "FL_p": 0.008298642,
+    "localtime": "2020-12-28 14:32:11"
+   },
+   {
+    "timestamp": 1609137135263,
+    "FL_p": 0.008278313,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:32:15"
+   },
+   {
+    "timestamp": 1609137139263,
+    "FL_p": 0.008257983,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:32:19"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609137143263,
+    "FL_p": 0.008237654,
+    "localtime": "2020-12-28 14:32:23"
+   },
+   {
+    "timestamp": 1609137147263,
+    "FL_p": 0.008217325,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:32:27"
+   },
+   {
+    "FL_p": 0.0081969965,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:32:31",
+    "timestamp": 1609137151263
+   },
+   {
+    "timestamp": 1609137155263,
+    "FL_p": 0.008176667,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:32:35"
+   },
+   {
+    "timestamp": 1609137159263,
+    "FL_p": 0.008156338,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:32:39"
+   },
+   {
+    "timestamp": 1609137163263,
+    "FL_p": 0.008136009,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:32:43"
+   },
+   {
+    "timestamp": 1609137167263,
+    "FL_p": 0.00811568,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:32:47"
+   },
+   {
+    "timestamp": 1609137171263,
+    "FL_p": 0.008095351,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:32:51"
+   },
+   {
+    "localtime": "2020-12-28 14:32:55",
+    "timestamp": 1609137175263,
+    "FL_p": 0.008075021,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609137179263,
+    "FL_p": 0.008054692,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:32:59"
+   },
+   {
+    "FL_p": 0.008034363,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:33:03",
+    "timestamp": 1609137183263
+   },
+   {
+    "localtime": "2020-12-28 14:33:07",
+    "timestamp": 1609137187263,
+    "FL_p": 0.008045264,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609137191263,
+    "FL_p": 0.008056165,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:33:11"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609137195263,
+    "FL_p": 0.008067065,
+    "localtime": "2020-12-28 14:33:15"
+   },
+   {
+    "localtime": "2020-12-28 14:33:19",
+    "FL_p": 0.008077966,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609137199263
+   },
+   {
+    "timestamp": 1609137203263,
+    "FL_p": 0.008088866,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:33:23"
+   },
+   {
+    "timestamp": 1609137207263,
+    "FL_p": 0.008099767,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:33:27"
+   },
+   {
+    "timestamp": 1609137211263,
+    "FL_p": 0.008110668,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:33:31"
+   },
+   {
+    "timestamp": 1609137215263,
+    "FL_p": 0.008121569,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:33:35"
+   },
+   {
+    "FL_p": 0.008132469,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:33:39",
+    "timestamp": 1609137219263
+   },
+   {
+    "timestamp": 1609137223263,
+    "FL_p": 0.00814337,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:33:43"
+   },
+   {
+    "FL_p": 0.00815427,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609137227263,
+    "localtime": "2020-12-28 14:33:47"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:33:51",
+    "timestamp": 1609137231263,
+    "FL_p": 0.008165171
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609137235263,
+    "FL_p": 0.008176072,
+    "localtime": "2020-12-28 14:33:55"
+   },
+   {
+    "localtime": "2020-12-28 14:33:59",
+    "timestamp": 1609137239263,
+    "FL_p": 0.008186973,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609137243263,
+    "FL_p": 0.008197873,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:34:03"
+   },
+   {
+    "timestamp": 1609137247263,
+    "FL_p": 0.008112591,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:34:07"
+   },
+   {
+    "timestamp": 1609137251263,
+    "FL_p": 0.008027308,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:34:11"
+   },
+   {
+    "timestamp": 1609137255263,
+    "FL_p": 0.007942026,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:34:15"
+   },
+   {
+    "timestamp": 1609137259263,
+    "FL_p": 0.0078567425,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:34:19"
+   },
+   {
+    "localtime": "2020-12-28 14:34:23",
+    "timestamp": 1609137263263,
+    "FL_p": 0.0077714603,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "localtime": "2020-12-28 14:34:27",
+    "timestamp": 1609137267263,
+    "FL_p": 0.0076861777,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609137271263,
+    "FL_p": 0.007600895,
+    "localtime": "2020-12-28 14:34:31"
+   },
+   {
+    "timestamp": 1609137275263,
+    "FL_p": 0.0075156125,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:34:35"
+   },
+   {
+    "timestamp": 1609137279263,
+    "FL_p": 0.00743033,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:34:39"
+   },
+   {
+    "timestamp": 1609137283263,
+    "FL_p": 0.007345048,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:34:43"
+   },
+   {
+    "timestamp": 1609137287263,
+    "FL_p": 0.007259765,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:34:47"
+   },
+   {
+    "timestamp": 1609137291263,
+    "FL_p": 0.0071744826,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:34:51"
+   },
+   {
+    "timestamp": 1609137295263,
+    "FL_p": 0.0070892,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:34:55"
+   },
+   {
+    "timestamp": 1609137299263,
+    "FL_p": 0.0070039174,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:34:59"
+   },
+   {
+    "timestamp": 1609137303263,
+    "FL_p": 0.0069186348,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:35:03"
+   },
+   {
+    "timestamp": 1609137307263,
+    "FL_p": 0.006914284,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:35:07"
+   },
+   {
+    "timestamp": 1609137311263,
+    "FL_p": 0.006909933,
+    "localtime": "2020-12-28 14:35:11",
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "localtime": "2020-12-28 14:35:15",
+    "timestamp": 1609137315263,
+    "FL_p": 0.0069055823,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609137319263,
+    "FL_p": 0.006901231,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:35:19"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609137323263,
+    "FL_p": 0.0068968805,
+    "localtime": "2020-12-28 14:35:23"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:35:27",
+    "timestamp": 1609137327263,
+    "FL_p": 0.0068925293
+   },
+   {
+    "timestamp": 1609137331263,
+    "FL_p": 0.0068881786,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:35:31"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609137335263,
+    "FL_p": 0.0068838275,
+    "localtime": "2020-12-28 14:35:35"
+   },
+   {
+    "localtime": "2020-12-28 14:35:39",
+    "timestamp": 1609137339263,
+    "FL_p": 0.006879477,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609137343263,
+    "FL_p": 0.0068751257,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:35:43"
+   },
+   {
+    "timestamp": 1609137347263,
+    "FL_p": 0.0068707746,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:35:47"
+   },
+   {
+    "timestamp": 1609137351263,
+    "FL_p": 0.006866424,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:35:51"
+   },
+   {
+    "FL_p": 0.0068620727,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:35:55",
+    "timestamp": 1609137355263
+   },
+   {
+    "localtime": "2020-12-28 14:35:59",
+    "timestamp": 1609137359263,
+    "FL_p": 0.006857722,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609137363263,
+    "FL_p": 0.006853371,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:36:03"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:36:07",
+    "timestamp": 1609137367263,
+    "FL_p": 0.006870647
+   },
+   {
+    "FL_p": 0.006887923,
+    "localtime": "2020-12-28 14:36:11",
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609137371263
+   },
+   {
+    "timestamp": 1609137375263,
+    "FL_p": 0.006905199,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:36:15"
+   },
+   {
+    "timestamp": 1609137379263,
+    "FL_p": 0.006922475,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:36:19"
+   },
+   {
+    "localtime": "2020-12-28 14:36:23",
+    "timestamp": 1609137383263,
+    "FL_p": 0.006939751,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "FL_p": 0.006957027,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609137387263,
+    "localtime": "2020-12-28 14:36:27"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:36:31",
+    "timestamp": 1609137391263,
+    "FL_p": 0.006974303
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609137395263,
+    "localtime": "2020-12-28 14:36:35",
+    "FL_p": 0.006991579
+   },
+   {
+    "FL_p": 0.007008855,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:36:39",
+    "timestamp": 1609137399263
+   },
+   {
+    "timestamp": 1609137403263,
+    "FL_p": 0.0070261313,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:36:43"
+   },
+   {
+    "timestamp": 1609137407263,
+    "FL_p": 0.0070434073,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:36:47"
+   },
+   {
+    "timestamp": 1609137411263,
+    "FL_p": 0.0070606833,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:36:51"
+   },
+   {
+    "FL_p": 0.0070779594,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609137415263,
+    "localtime": "2020-12-28 14:36:55"
+   },
+   {
+    "timestamp": 1609137419263,
+    "FL_p": 0.007095235,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:36:59"
+   },
+   {
+    "localtime": "2020-12-28 14:37:03",
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609137423263,
+    "FL_p": 0.007112511
+   },
+   {
+    "timestamp": 1609137427263,
+    "FL_p": 0.007103181,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:37:07"
+   },
+   {
+    "timestamp": 1609137431263,
+    "FL_p": 0.0070938505,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:37:11"
+   },
+   {
+    "FL_p": 0.00708452,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:37:15",
+    "timestamp": 1609137435263
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:37:19",
+    "timestamp": 1609137439263,
+    "FL_p": 0.00707519
+   },
+   {
+    "FL_p": 0.0070658596,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609137443263,
+    "localtime": "2020-12-28 14:37:23"
+   },
+   {
+    "timestamp": 1609137447263,
+    "FL_p": 0.007056529,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:37:27"
+   },
+   {
+    "timestamp": 1609137451263,
+    "FL_p": 0.0070471987,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:37:31"
+   },
+   {
+    "timestamp": 1609137455263,
+    "localtime": "2020-12-28 14:37:35",
+    "FL_p": 0.0070378687,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:37:39",
+    "timestamp": 1609137459263,
+    "FL_p": 0.0070285383
+   },
+   {
+    "timestamp": 1609137463263,
+    "FL_p": 0.007019208,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:37:43"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609137467263,
+    "FL_p": 0.007009878,
+    "localtime": "2020-12-28 14:37:47"
+   },
+   {
+    "localtime": "2020-12-28 14:37:51",
+    "timestamp": 1609137471263,
+    "FL_p": 0.0070005474,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609137475263,
+    "FL_p": 0.006991217,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:37:55"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609137479263,
+    "FL_p": 0.006981887,
+    "localtime": "2020-12-28 14:37:59"
+   },
+   {
+    "FL_p": 0.0069725565,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609137483263,
+    "localtime": "2020-12-28 14:38:03"
+   },
+   {
+    "FL_p": 0.0069926176,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:38:07",
+    "timestamp": 1609137487263
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:38:11",
+    "timestamp": 1609137491263,
+    "FL_p": 0.007012679
+   },
+   {
+    "timestamp": 1609137495263,
+    "FL_p": 0.00703274,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:38:15"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:38:19",
+    "timestamp": 1609137499263,
+    "FL_p": 0.007052801
+   },
+   {
+    "timestamp": 1609137503263,
+    "FL_p": 0.0070728627,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:38:23"
+   },
+   {
+    "timestamp": 1609137507263,
+    "FL_p": 0.007092924,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:38:27"
+   },
+   {
+    "timestamp": 1609137511263,
+    "FL_p": 0.007112985,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:38:31"
+   },
+   {
+    "timestamp": 1609137515263,
+    "FL_p": 0.007133046,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:38:35"
+   },
+   {
+    "localtime": "2020-12-28 14:38:39",
+    "timestamp": 1609137519263,
+    "FL_p": 0.0071531073,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609137523263,
+    "FL_p": 0.0071731685,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:38:43"
+   },
+   {
+    "timestamp": 1609137527263,
+    "FL_p": 0.00719323,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:38:47"
+   },
+   {
+    "timestamp": 1609137531263,
+    "FL_p": 0.0072132912,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:38:51"
+   },
+   {
+    "timestamp": 1609137535263,
+    "FL_p": 0.0072333524,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:38:55"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:38:59",
+    "timestamp": 1609137539263,
+    "FL_p": 0.0072534136
+   },
+   {
+    "localtime": "2020-12-28 14:39:03",
+    "timestamp": 1609137543263,
+    "FL_p": 0.0072734747,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609137547263,
+    "FL_p": 0.007333178,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:39:07"
+   },
+   {
+    "FL_p": 0.0073928814,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:39:11",
+    "timestamp": 1609137551263
+   },
+   {
+    "FL_p": 0.007452585,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:39:15",
+    "timestamp": 1609137555263
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:39:19",
+    "timestamp": 1609137559263,
+    "FL_p": 0.007512288
+   },
+   {
+    "localtime": "2020-12-28 14:39:23",
+    "timestamp": 1609137563263,
+    "FL_p": 0.0075719915,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609137567263,
+    "FL_p": 0.007631695,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:39:27"
+   },
+   {
+    "timestamp": 1609137571263,
+    "FL_p": 0.007691398,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:39:31"
+   },
+   {
+    "timestamp": 1609137575263,
+    "FL_p": 0.007751101,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:39:35"
+   },
+   {
+    "timestamp": 1609137579263,
+    "localtime": "2020-12-28 14:39:39",
+    "FL_p": 0.0078108045,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609137583263,
+    "FL_p": 0.007870508,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:39:43"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:39:47",
+    "timestamp": 1609137587263,
+    "FL_p": 0.007930212
+   },
+   {
+    "FL_p": 0.007989914,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609137591263,
+    "localtime": "2020-12-28 14:39:51"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:39:55",
+    "timestamp": 1609137595263,
+    "FL_p": 0.0080496175
+   },
+   {
+    "timestamp": 1609137599263,
+    "FL_p": 0.008109321,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:39:59"
+   },
+   {
+    "FL_p": 0.008169024,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:40:03",
+    "timestamp": 1609137603263
+   },
+   {
+    "FL_p": 0.008135499,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:40:07",
+    "timestamp": 1609137607263
+   },
+   {
+    "timestamp": 1609137611263,
+    "localtime": "2020-12-28 14:40:11",
+    "FL_p": 0.008101974,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "FL_p": 0.008068449,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:40:15",
+    "timestamp": 1609137615263
+   },
+   {
+    "localtime": "2020-12-28 14:40:19",
+    "timestamp": 1609137619263,
+    "FL_p": 0.008034923,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609137623263,
+    "FL_p": 0.008001397,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:40:23"
+   },
+   {
+    "localtime": "2020-12-28 14:40:27",
+    "timestamp": 1609137627263,
+    "FL_p": 0.007967873,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609137631263,
+    "FL_p": 0.007934347,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:40:31"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:40:35",
+    "timestamp": 1609137635263,
+    "FL_p": 0.007900822
+   },
+   {
+    "timestamp": 1609137639263,
+    "FL_p": 0.007867296,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:40:39"
+   },
+   {
+    "timestamp": 1609137643263,
+    "FL_p": 0.007833771,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:40:43"
+   },
+   {
+    "FL_p": 0.0078002457,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:40:47",
+    "timestamp": 1609137647263
+   },
+   {
+    "timestamp": 1609137651263,
+    "localtime": "2020-12-28 14:40:51",
+    "FL_p": 0.0077667204,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609137655263,
+    "FL_p": 0.007733195,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:40:55"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609137659263,
+    "FL_p": 0.0076996693,
+    "localtime": "2020-12-28 14:40:59"
+   },
+   {
+    "timestamp": 1609137663263,
+    "FL_p": 0.007666144,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:41:03"
+   },
+   {
+    "FL_p": 0.0076341545,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:41:07",
+    "timestamp": 1609137667263
+   },
+   {
+    "timestamp": 1609137671263,
+    "FL_p": 0.0076021645,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:41:11"
+   },
+   {
+    "localtime": "2020-12-28 14:41:15",
+    "timestamp": 1609137675263,
+    "FL_p": 0.0075701745,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609137679263,
+    "FL_p": 0.007538185,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:41:19"
+   },
+   {
+    "timestamp": 1609137683263,
+    "FL_p": 0.007506195,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:41:23"
+   },
+   {
+    "FL_p": 0.0074742055,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609137687263,
+    "localtime": "2020-12-28 14:41:27"
+   },
+   {
+    "localtime": "2020-12-28 14:41:31",
+    "timestamp": 1609137691263,
+    "FL_p": 0.0074422155,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609137695263,
+    "FL_p": 0.0074102255,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:41:35"
+   },
+   {
+    "timestamp": 1609137699263,
+    "FL_p": 0.007378236,
+    "localtime": "2020-12-28 14:41:39",
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609137703263,
+    "FL_p": 0.007346246,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:41:43"
+   },
+   {
+    "FL_p": 0.0073142564,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:41:47",
+    "timestamp": 1609137707263
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:41:51",
+    "timestamp": 1609137711263,
+    "FL_p": 0.0072822664
+   },
+   {
+    "timestamp": 1609137715263,
+    "FL_p": 0.0072502764,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:41:55"
+   },
+   {
+    "localtime": "2020-12-28 14:41:59",
+    "timestamp": 1609137719263,
+    "FL_p": 0.007218287,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "FL_p": 0.007186297,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:42:03",
+    "timestamp": 1609137723263
+   },
+   {
+    "timestamp": 1609137727263,
+    "FL_p": 0.007142341,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:42:07"
+   },
+   {
+    "timestamp": 1609137731263,
+    "FL_p": 0.007098386,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:42:11"
+   },
+   {
+    "timestamp": 1609137735263,
+    "FL_p": 0.0070544304,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:42:15"
+   },
+   {
+    "timestamp": 1609137739263,
+    "FL_p": 0.007010475,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:42:19"
+   },
+   {
+    "timestamp": 1609137743263,
+    "FL_p": 0.006966519,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:42:23"
+   },
+   {
+    "timestamp": 1609137747263,
+    "FL_p": 0.006922564,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:42:27"
+   },
+   {
+    "localtime": "2020-12-28 14:42:31",
+    "timestamp": 1609137751263,
+    "FL_p": 0.0068786084,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609137755263,
+    "FL_p": 0.0068346527,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:42:35"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609137759263,
+    "FL_p": 0.006790697,
+    "localtime": "2020-12-28 14:42:39"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:42:43",
+    "timestamp": 1609137763263,
+    "FL_p": 0.006746742
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:42:47",
+    "timestamp": 1609137767263,
+    "FL_p": 0.0067027863
+   },
+   {
+    "timestamp": 1609137771263,
+    "FL_p": 0.0066588307,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:42:51"
+   },
+   {
+    "timestamp": 1609137775263,
+    "FL_p": 0.006614875,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:42:55"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:42:59",
+    "timestamp": 1609137779263,
+    "FL_p": 0.0065709194
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609137783263,
+    "FL_p": 0.0065269643,
+    "localtime": "2020-12-28 14:43:03"
+   },
+   {
+    "FL_p": 0.0064968346,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:43:07",
+    "timestamp": 1609137787263
+   },
+   {
+    "timestamp": 1609137791263,
+    "FL_p": 0.0064667054,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:43:11"
+   },
+   {
+    "localtime": "2020-12-28 14:43:15",
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609137795263,
+    "FL_p": 0.0064365757
+   },
+   {
+    "timestamp": 1609137799263,
+    "FL_p": 0.006406446,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:43:19"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609137803263,
+    "localtime": "2020-12-28 14:43:23",
+    "FL_p": 0.006376317
+   },
+   {
+    "localtime": "2020-12-28 14:43:27",
+    "timestamp": 1609137807263,
+    "FL_p": 0.006346187,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "localtime": "2020-12-28 14:43:31",
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609137811263,
+    "FL_p": 0.006316058
+   },
+   {
+    "timestamp": 1609137815263,
+    "FL_p": 0.006285928,
+    "localtime": "2020-12-28 14:43:35",
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "FL_p": 0.006255799,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609137819263,
+    "localtime": "2020-12-28 14:43:39"
+   },
+   {
+    "timestamp": 1609137823263,
+    "FL_p": 0.0062256693,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:43:43"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609137827263,
+    "FL_p": 0.0061955396,
+    "localtime": "2020-12-28 14:43:47"
+   },
+   {
+    "timestamp": 1609137831263,
+    "FL_p": 0.0061654104,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:43:51"
+   },
+   {
+    "localtime": "2020-12-28 14:43:55",
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609137835263,
+    "FL_p": 0.0061352807
+   },
+   {
+    "timestamp": 1609137839263,
+    "FL_p": 0.0061051515,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:43:59"
+   },
+   {
+    "timestamp": 1609137843263,
+    "FL_p": 0.006075022,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:44:03"
+   },
+   {
+    "timestamp": 1609137847263,
+    "FL_p": 0.006097428,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:44:07"
+   },
+   {
+    "timestamp": 1609137851263,
+    "FL_p": 0.0061198343,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:44:11"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:44:15",
+    "timestamp": 1609137855263,
+    "FL_p": 0.0061422405
+   },
+   {
+    "localtime": "2020-12-28 14:44:19",
+    "timestamp": 1609137859263,
+    "FL_p": 0.0061646467,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "FL_p": 0.006187053,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609137863263,
+    "localtime": "2020-12-28 14:44:23"
+   },
+   {
+    "FL_p": 0.006209459,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:44:27",
+    "timestamp": 1609137867263
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:44:31",
+    "timestamp": 1609137871263,
+    "FL_p": 0.0062318654
+   },
+   {
+    "timestamp": 1609137875263,
+    "FL_p": 0.0062542716,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:44:35"
+   },
+   {
+    "FL_p": 0.0062766783,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:44:39",
+    "timestamp": 1609137879263
+   },
+   {
+    "timestamp": 1609137883263,
+    "FL_p": 0.0062990845,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:44:43"
+   },
+   {
+    "timestamp": 1609137887263,
+    "FL_p": 0.0063214907,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:44:47"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:44:51",
+    "timestamp": 1609137891263,
+    "FL_p": 0.006343897
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609137895263,
+    "FL_p": 0.006366303,
+    "localtime": "2020-12-28 14:44:55"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:44:59",
+    "timestamp": 1609137899263,
+    "FL_p": 0.0063887094
+   },
+   {
+    "FL_p": 0.0064111156,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609137903263,
+    "localtime": "2020-12-28 14:45:03"
+   },
+   {
+    "timestamp": 1609137907263,
+    "FL_p": 0.0064114896,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:45:07"
+   },
+   {
+    "timestamp": 1609137911263,
+    "FL_p": 0.0064118635,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:45:11"
+   },
+   {
+    "timestamp": 1609137915263,
+    "FL_p": 0.0064122374,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:45:15"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609137919263,
+    "FL_p": 0.0064126113,
+    "localtime": "2020-12-28 14:45:19"
+   },
+   {
+    "FL_p": 0.0064129853,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:45:23",
+    "timestamp": 1609137923263
+   },
+   {
+    "timestamp": 1609137927263,
+    "FL_p": 0.006413359,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:45:27"
+   },
+   {
+    "FL_p": 0.006413733,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:45:31",
+    "timestamp": 1609137931263
+   },
+   {
+    "timestamp": 1609137935263,
+    "FL_p": 0.006414107,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:45:35"
+   },
+   {
+    "timestamp": 1609137939263,
+    "FL_p": 0.006414481,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:45:39"
+   },
+   {
+    "timestamp": 1609137943263,
+    "FL_p": 0.006414855,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:45:43"
+   },
+   {
+    "FL_p": 0.006415229,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:45:47",
+    "timestamp": 1609137947263
+   },
+   {
+    "timestamp": 1609137951263,
+    "FL_p": 0.0064156028,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:45:51"
+   },
+   {
+    "timestamp": 1609137955263,
+    "FL_p": 0.0064159767,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:45:55"
+   },
+   {
+    "localtime": "2020-12-28 14:45:59",
+    "timestamp": 1609137959263,
+    "FL_p": 0.0064163506,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609137963263,
+    "FL_p": 0.006416725,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:46:03"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609137967263,
+    "FL_p": 0.006482842,
+    "localtime": "2020-12-28 14:46:07"
+   },
+   {
+    "FL_p": 0.006548959,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609137971263,
+    "localtime": "2020-12-28 14:46:11"
+   },
+   {
+    "timestamp": 1609137975263,
+    "FL_p": 0.006615076,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:46:15"
+   },
+   {
+    "timestamp": 1609137979263,
+    "FL_p": 0.006681193,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:46:19"
+   },
+   {
+    "timestamp": 1609137983263,
+    "FL_p": 0.00674731,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:46:23"
+   },
+   {
+    "timestamp": 1609137987263,
+    "FL_p": 0.0068134274,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:46:27"
+   },
+   {
+    "FL_p": 0.0068795444,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:46:31",
+    "timestamp": 1609137991263
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609137995263,
+    "FL_p": 0.0069456613,
+    "localtime": "2020-12-28 14:46:35"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:46:39",
+    "timestamp": 1609137999263,
+    "FL_p": 0.0070117787
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609138003263,
+    "FL_p": 0.0070778956,
+    "localtime": "2020-12-28 14:46:43"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609138007263,
+    "FL_p": 0.007144013,
+    "localtime": "2020-12-28 14:46:47"
+   },
+   {
+    "FL_p": 0.00721013,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:46:51",
+    "timestamp": 1609138011263
+   },
+   {
+    "timestamp": 1609138015263,
+    "FL_p": 0.007276247,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:46:55"
+   },
+   {
+    "timestamp": 1609138019263,
+    "FL_p": 0.007342364,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:46:59"
+   },
+   {
+    "localtime": "2020-12-28 14:47:03",
+    "timestamp": 1609138023263,
+    "FL_p": 0.007408481,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609138027263,
+    "FL_p": 0.007411603,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:47:07"
+   },
+   {
+    "timestamp": 1609138031263,
+    "FL_p": 0.0074147247,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:47:11"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609138035263,
+    "FL_p": 0.0074178465,
+    "localtime": "2020-12-28 14:47:15"
+   },
+   {
+    "timestamp": 1609138039263,
+    "FL_p": 0.0074209683,
+    "localtime": "2020-12-28 14:47:19",
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609138043263,
+    "FL_p": 0.0074240896,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:47:23"
+   },
+   {
+    "FL_p": 0.0074272114,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:47:27",
+    "timestamp": 1609138047263
+   },
+   {
+    "localtime": "2020-12-28 14:47:31",
+    "timestamp": 1609138051263,
+    "FL_p": 0.007430333,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "FL_p": 0.007433455,
+    "localtime": "2020-12-28 14:47:35",
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609138055263
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:47:39",
+    "timestamp": 1609138059263,
+    "FL_p": 0.0074365768
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609138063263,
+    "FL_p": 0.0074396986,
+    "localtime": "2020-12-28 14:47:43"
+   },
+   {
+    "FL_p": 0.0074428204,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:47:47",
+    "timestamp": 1609138067263
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:47:51",
+    "timestamp": 1609138071263,
+    "FL_p": 0.0074459417
+   },
+   {
+    "timestamp": 1609138075263,
+    "FL_p": 0.0074490635,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:47:55"
+   },
+   {
+    "localtime": "2020-12-28 14:47:59",
+    "timestamp": 1609138079263,
+    "FL_p": 0.0074521853,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609138083263,
+    "FL_p": 0.007455307,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:48:03"
+   },
+   {
+    "FL_p": 0.007501602,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:48:07",
+    "timestamp": 1609138087263
+   },
+   {
+    "timestamp": 1609138091263,
+    "FL_p": 0.0075478973,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:48:11"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609138095263,
+    "FL_p": 0.0075941924,
+    "localtime": "2020-12-28 14:48:15"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609138099263,
+    "localtime": "2020-12-28 14:48:19",
+    "FL_p": 0.0076404875
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:48:23",
+    "timestamp": 1609138103263,
+    "FL_p": 0.0076867826
+   },
+   {
+    "timestamp": 1609138107263,
+    "FL_p": 0.0077330777,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:48:27"
+   },
+   {
+    "timestamp": 1609138111263,
+    "FL_p": 0.0077793733,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:48:31"
+   },
+   {
+    "timestamp": 1609138115263,
+    "FL_p": 0.007825668,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:48:35"
+   },
+   {
+    "timestamp": 1609138119263,
+    "FL_p": 0.007871963,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:48:39"
+   },
+   {
+    "localtime": "2020-12-28 14:48:43",
+    "timestamp": 1609138123263,
+    "FL_p": 0.007918258,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "FL_p": 0.007964553,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609138127263,
+    "localtime": "2020-12-28 14:48:47"
+   },
+   {
+    "FL_p": 0.008010848,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:48:51",
+    "timestamp": 1609138131263
+   },
+   {
+    "timestamp": 1609138135263,
+    "FL_p": 0.0080571445,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:48:55"
+   },
+   {
+    "timestamp": 1609138139263,
+    "FL_p": 0.00810344,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:48:59"
+   },
+   {
+    "localtime": "2020-12-28 14:49:03",
+    "timestamp": 1609138143263,
+    "FL_p": 0.008149735,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609138147263,
+    "FL_p": 0.008155062,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:49:07"
+   },
+   {
+    "timestamp": 1609138151263,
+    "FL_p": 0.00816039,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:49:11"
+   },
+   {
+    "localtime": "2020-12-28 14:49:15",
+    "timestamp": 1609138155263,
+    "FL_p": 0.008165718,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609138159263,
+    "FL_p": 0.008171046,
+    "localtime": "2020-12-28 14:49:19"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609138163263,
+    "FL_p": 0.008176373,
+    "localtime": "2020-12-28 14:49:23"
+   },
+   {
+    "timestamp": 1609138167263,
+    "FL_p": 0.008181701,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:49:27"
+   },
+   {
+    "timestamp": 1609138171263,
+    "FL_p": 0.0081870295,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:49:31"
+   },
+   {
+    "timestamp": 1609138175263,
+    "FL_p": 0.008192358,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:49:35"
+   },
+   {
+    "timestamp": 1609138179263,
+    "FL_p": 0.008197686,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:49:39"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609138183263,
+    "FL_p": 0.008203013,
+    "localtime": "2020-12-28 14:49:43"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609138187263,
+    "FL_p": 0.008208341,
+    "localtime": "2020-12-28 14:49:47"
+   },
+   {
+    "timestamp": 1609138191263,
+    "FL_p": 0.008213669,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:49:51"
+   },
+   {
+    "timestamp": 1609138195263,
+    "FL_p": 0.008218997,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:49:55"
+   },
+   {
+    "timestamp": 1609138199263,
+    "FL_p": 0.008224325,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:49:59"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:50:03",
+    "timestamp": 1609138203263,
+    "FL_p": 0.008229652
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:50:07",
+    "timestamp": 1609138207263,
+    "FL_p": 0.008201706
+   },
+   {
+    "timestamp": 1609138211263,
+    "FL_p": 0.00817376,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:50:11"
+   },
+   {
+    "timestamp": 1609138215263,
+    "FL_p": 0.008145813,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:50:15"
+   },
+   {
+    "localtime": "2020-12-28 14:50:19",
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609138219263,
+    "FL_p": 0.008117867
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:50:23",
+    "timestamp": 1609138223263,
+    "FL_p": 0.0080899205
+   },
+   {
+    "timestamp": 1609138227263,
+    "FL_p": 0.008061973,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:50:27"
+   },
+   {
+    "FL_p": 0.008034027,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609138231263,
+    "localtime": "2020-12-28 14:50:31"
+   },
+   {
+    "timestamp": 1609138235263,
+    "FL_p": 0.008006081,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:50:35"
+   },
+   {
+    "timestamp": 1609138239263,
+    "FL_p": 0.007978134,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:50:39"
+   },
+   {
+    "timestamp": 1609138243263,
+    "FL_p": 0.007950188,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:50:43"
+   },
+   {
+    "timestamp": 1609138247263,
+    "FL_p": 0.007922241,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:50:47"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:50:51",
+    "timestamp": 1609138251263,
+    "FL_p": 0.007894294
+   },
+   {
+    "timestamp": 1609138255263,
+    "FL_p": 0.007866348,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:50:55"
+   },
+   {
+    "FL_p": 0.007838402,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:50:59",
+    "timestamp": 1609138259263
+   },
+   {
+    "timestamp": 1609138263263,
+    "FL_p": 0.007810455,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:51:03"
+   },
+   {
+    "timestamp": 1609138267263,
+    "FL_p": 0.0077635134,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:51:07"
+   },
+   {
+    "timestamp": 1609138271263,
+    "FL_p": 0.0077165714,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:51:11"
+   },
+   {
+    "timestamp": 1609138275263,
+    "FL_p": 0.0076696295,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:51:15"
+   },
+   {
+    "FL_p": 0.0076226876,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609138279263,
+    "localtime": "2020-12-28 14:51:19"
+   },
+   {
+    "timestamp": 1609138283263,
+    "FL_p": 0.007575746,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:51:23"
+   },
+   {
+    "timestamp": 1609138287263,
+    "FL_p": 0.0075288042,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:51:27"
+   },
+   {
+    "FL_p": 0.0074818623,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:51:31",
+    "timestamp": 1609138291263
+   },
+   {
+    "localtime": "2020-12-28 14:51:35",
+    "timestamp": 1609138295263,
+    "FL_p": 0.0074349204,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "localtime": "2020-12-28 14:51:39",
+    "timestamp": 1609138299263,
+    "FL_p": 0.007387979,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "FL_p": 0.007341037,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:51:43",
+    "timestamp": 1609138303263
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:51:47",
+    "timestamp": 1609138307263,
+    "FL_p": 0.007294095
+   },
+   {
+    "FL_p": 0.007247153,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609138311263,
+    "localtime": "2020-12-28 14:51:51"
+   },
+   {
+    "localtime": "2020-12-28 14:51:55",
+    "timestamp": 1609138315263,
+    "FL_p": 0.0072002118,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609138319263,
+    "FL_p": 0.00715327,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:51:59"
+   },
+   {
+    "timestamp": 1609138323263,
+    "FL_p": 0.007106328,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:52:03"
+   },
+   {
+    "timestamp": 1609138327263,
+    "FL_p": 0.007098166,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:52:07"
+   },
+   {
+    "localtime": "2020-12-28 14:52:11",
+    "timestamp": 1609138331263,
+    "FL_p": 0.0070900037,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609138335263,
+    "FL_p": 0.007081841,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:52:15"
+   },
+   {
+    "timestamp": 1609138339263,
+    "FL_p": 0.007073679,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:52:19"
+   },
+   {
+    "FL_p": 0.007065517,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609138343263,
+    "localtime": "2020-12-28 14:52:23"
+   },
+   {
+    "FL_p": 0.0070573543,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609138347263,
+    "localtime": "2020-12-28 14:52:27"
+   },
+   {
+    "FL_p": 0.007049192,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609138351263,
+    "localtime": "2020-12-28 14:52:31"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609138355263,
+    "FL_p": 0.0070410296,
+    "localtime": "2020-12-28 14:52:35"
+   },
+   {
+    "timestamp": 1609138359263,
+    "FL_p": 0.0070328675,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:52:39"
+   },
+   {
+    "timestamp": 1609138363263,
+    "localtime": "2020-12-28 14:52:43",
+    "FL_p": 0.0070247054,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "FL_p": 0.007016543,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609138367263,
+    "localtime": "2020-12-28 14:52:47"
+   },
+   {
+    "timestamp": 1609138371263,
+    "FL_p": 0.0070083807,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:52:51"
+   },
+   {
+    "FL_p": 0.0070002186,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609138375263,
+    "localtime": "2020-12-28 14:52:55"
+   },
+   {
+    "localtime": "2020-12-28 14:52:59",
+    "timestamp": 1609138379263,
+    "FL_p": 0.006992056,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609138383263,
+    "FL_p": 0.006983894,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:53:03"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:53:07",
+    "timestamp": 1609138387263,
+    "FL_p": 0.006993834
+   },
+   {
+    "FL_p": 0.007003774,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609138391263,
+    "localtime": "2020-12-28 14:53:11"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:53:15",
+    "timestamp": 1609138395263,
+    "FL_p": 0.007013714
+   },
+   {
+    "timestamp": 1609138399263,
+    "FL_p": 0.0070236544,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:53:19"
+   },
+   {
+    "timestamp": 1609138403263,
+    "FL_p": 0.0070335944,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:53:23"
+   },
+   {
+    "timestamp": 1609138407263,
+    "FL_p": 0.0070435344,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:53:27"
+   },
+   {
+    "FL_p": 0.0070534744,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:53:31",
+    "timestamp": 1609138411263
+   },
+   {
+    "FL_p": 0.0070634144,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609138415263,
+    "localtime": "2020-12-28 14:53:35"
+   },
+   {
+    "timestamp": 1609138419263,
+    "FL_p": 0.0070733544,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:53:39"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:53:43",
+    "timestamp": 1609138423263,
+    "FL_p": 0.007083295
+   },
+   {
+    "FL_p": 0.007093235,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609138427263,
+    "localtime": "2020-12-28 14:53:47"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609138431263,
+    "FL_p": 0.007103175,
+    "localtime": "2020-12-28 14:53:51"
+   },
+   {
+    "timestamp": 1609138435263,
+    "FL_p": 0.007113115,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:53:55"
+   },
+   {
+    "timestamp": 1609138439263,
+    "FL_p": 0.007123055,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:53:59"
+   },
+   {
+    "FL_p": 0.007132995,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609138443263,
+    "localtime": "2020-12-28 14:54:03"
+   },
+   {
+    "timestamp": 1609138447263,
+    "FL_p": 0.0071589965,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:54:07"
+   },
+   {
+    "localtime": "2020-12-28 14:54:11",
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609138451263,
+    "FL_p": 0.007184998
+   },
+   {
+    "timestamp": 1609138455263,
+    "FL_p": 0.0072109993,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:54:15"
+   },
+   {
+    "timestamp": 1609138459263,
+    "FL_p": 0.007237001,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:54:19"
+   },
+   {
+    "timestamp": 1609138463263,
+    "FL_p": 0.007263002,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:54:23"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:54:27",
+    "timestamp": 1609138467263,
+    "FL_p": 0.0072890036
+   },
+   {
+    "timestamp": 1609138471263,
+    "FL_p": 0.007315005,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:54:31"
+   },
+   {
+    "FL_p": 0.0073410063,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:54:35",
+    "timestamp": 1609138475263
+   },
+   {
+    "timestamp": 1609138479263,
+    "FL_p": 0.007367008,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:54:39"
+   },
+   {
+    "localtime": "2020-12-28 14:54:43",
+    "timestamp": 1609138483263,
+    "FL_p": 0.007393009,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "FL_p": 0.0074190106,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:54:47",
+    "timestamp": 1609138487263
+   },
+   {
+    "FL_p": 0.007445012,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:54:51",
+    "timestamp": 1609138491263
+   },
+   {
+    "localtime": "2020-12-28 14:54:55",
+    "timestamp": 1609138495263,
+    "FL_p": 0.0074710133,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609138499263,
+    "FL_p": 0.007497015,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:54:59"
+   },
+   {
+    "timestamp": 1609138503263,
+    "FL_p": 0.007523016,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:55:03"
+   },
+   {
+    "FL_p": 0.0075987945,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609138507263,
+    "localtime": "2020-12-28 14:55:07"
+   },
+   {
+    "timestamp": 1609138511263,
+    "FL_p": 0.0076745735,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:55:11"
+   },
+   {
+    "FL_p": 0.007750352,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:55:15",
+    "timestamp": 1609138515263
+   },
+   {
+    "timestamp": 1609138519263,
+    "FL_p": 0.00782613,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:55:19"
+   },
+   {
+    "FL_p": 0.007901909,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:55:23",
+    "timestamp": 1609138523263
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609138527263,
+    "localtime": "2020-12-28 14:55:27",
+    "FL_p": 0.007977688
+   },
+   {
+    "FL_p": 0.008053466,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:55:31",
+    "timestamp": 1609138531263
+   },
+   {
+    "timestamp": 1609138535263,
+    "FL_p": 0.008129245,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:55:35"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:55:39",
+    "timestamp": 1609138539263,
+    "FL_p": 0.008205023
+   },
+   {
+    "timestamp": 1609138543263,
+    "FL_p": 0.008280802,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:55:43"
+   },
+   {
+    "timestamp": 1609138547263,
+    "FL_p": 0.00835658,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:55:47"
+   },
+   {
+    "timestamp": 1609138551263,
+    "FL_p": 0.0084323585,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:55:51"
+   },
+   {
+    "timestamp": 1609138555263,
+    "FL_p": 0.0085081365,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:55:55"
+   },
+   {
+    "timestamp": 1609138559263,
+    "FL_p": 0.008583915,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:55:59"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609138563263,
+    "FL_p": 0.008659694,
+    "localtime": "2020-12-28 14:56:03"
+   },
+   {
+    "timestamp": 1609138567263,
+    "FL_p": 0.0087095555,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:56:07"
+   },
+   {
+    "timestamp": 1609138571263,
+    "FL_p": 0.008759417,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:56:11"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:56:15",
+    "timestamp": 1609138575263,
+    "FL_p": 0.008809279
+   },
+   {
+    "timestamp": 1609138579263,
+    "localtime": "2020-12-28 14:56:19",
+    "FL_p": 0.00885914,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609138583263,
+    "FL_p": 0.008909002,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:56:23"
+   },
+   {
+    "FL_p": 0.008958863,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609138587263,
+    "localtime": "2020-12-28 14:56:27"
+   },
+   {
+    "timestamp": 1609138591263,
+    "FL_p": 0.009008725,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:56:31"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:56:35",
+    "timestamp": 1609138595263,
+    "FL_p": 0.009058586
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609138599263,
+    "FL_p": 0.009108448,
+    "localtime": "2020-12-28 14:56:39"
+   },
+   {
+    "timestamp": 1609138603263,
+    "FL_p": 0.00915831,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:56:43"
+   },
+   {
+    "timestamp": 1609138607263,
+    "FL_p": 0.009208171,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:56:47"
+   },
+   {
+    "timestamp": 1609138611263,
+    "FL_p": 0.009258033,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:56:51"
+   },
+   {
+    "FL_p": 0.009307894,
+    "localtime": "2020-12-28 14:56:55",
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609138615263
+   },
+   {
+    "localtime": "2020-12-28 14:56:59",
+    "timestamp": 1609138619263,
+    "FL_p": 0.009357756,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "FL_p": 0.009407617,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609138623263,
+    "localtime": "2020-12-28 14:57:03"
+   },
+   {
+    "localtime": "2020-12-28 14:57:07",
+    "timestamp": 1609138627263,
+    "FL_p": 0.009433492,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609138631263,
+    "FL_p": 0.009459366,
+    "localtime": "2020-12-28 14:57:11"
+   },
+   {
+    "timestamp": 1609138635263,
+    "FL_p": 0.009485241,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:57:15"
+   },
+   {
+    "timestamp": 1609138639263,
+    "FL_p": 0.009511115,
+    "localtime": "2020-12-28 14:57:19",
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609138643263,
+    "FL_p": 0.00953699,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:57:23"
+   },
+   {
+    "FL_p": 0.009562864,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609138647263,
+    "localtime": "2020-12-28 14:57:27"
+   },
+   {
+    "localtime": "2020-12-28 14:57:31",
+    "timestamp": 1609138651263,
+    "FL_p": 0.009588739,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:57:35",
+    "timestamp": 1609138655263,
+    "FL_p": 0.009614613
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609138659263,
+    "FL_p": 0.009640488,
+    "localtime": "2020-12-28 14:57:39"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:57:43",
+    "timestamp": 1609138663263,
+    "FL_p": 0.009666362
+   },
+   {
+    "timestamp": 1609138667263,
+    "FL_p": 0.009692236,
+    "localtime": "2020-12-28 14:57:47",
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "localtime": "2020-12-28 14:57:51",
+    "timestamp": 1609138671263,
+    "FL_p": 0.009718111,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "FL_p": 0.009743985,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:57:55",
+    "timestamp": 1609138675263
+   },
+   {
+    "FL_p": 0.00976986,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:57:59",
+    "timestamp": 1609138679263
+   },
+   {
+    "localtime": "2020-12-28 14:58:03",
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609138683263,
+    "FL_p": 0.009795734
+   },
+   {
+    "FL_p": 0.0097528,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:58:07",
+    "timestamp": 1609138687263
+   },
+   {
+    "timestamp": 1609138691263,
+    "FL_p": 0.009709866,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:58:11"
+   },
+   {
+    "timestamp": 1609138695263,
+    "FL_p": 0.009666932,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:58:15"
+   },
+   {
+    "timestamp": 1609138699263,
+    "FL_p": 0.009623997,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:58:19"
+   },
+   {
+    "timestamp": 1609138703263,
+    "FL_p": 0.009581063,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:58:23"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609138707263,
+    "FL_p": 0.009538129,
+    "localtime": "2020-12-28 14:58:27"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:58:31",
+    "timestamp": 1609138711263,
+    "FL_p": 0.009495195
+   },
+   {
+    "FL_p": 0.00945226,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:58:35",
+    "timestamp": 1609138715263
+   },
+   {
+    "timestamp": 1609138719263,
+    "FL_p": 0.009409326,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:58:39"
+   },
+   {
+    "timestamp": 1609138723263,
+    "FL_p": 0.009366392,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:58:43"
+   },
+   {
+    "timestamp": 1609138727263,
+    "FL_p": 0.009323457,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:58:47"
+   },
+   {
+    "timestamp": 1609138731263,
+    "FL_p": 0.009280523,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:58:51"
+   },
+   {
+    "FL_p": 0.009237589,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609138735263,
+    "localtime": "2020-12-28 14:58:55"
+   },
+   {
+    "timestamp": 1609138739263,
+    "FL_p": 0.009194655,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:58:59"
+   },
+   {
+    "timestamp": 1609138743263,
+    "FL_p": 0.00915172,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:59:03"
+   },
+   {
+    "FL_p": 0.009194629,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:59:07",
+    "timestamp": 1609138747263
+   },
+   {
+    "localtime": "2020-12-28 14:59:11",
+    "timestamp": 1609138751263,
+    "FL_p": 0.009237538,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "FL_p": 0.009280447,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:59:15",
+    "timestamp": 1609138755263
+   },
+   {
+    "timestamp": 1609138759263,
+    "FL_p": 0.009323355,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:59:19"
+   },
+   {
+    "timestamp": 1609138763263,
+    "FL_p": 0.009366264,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:59:23"
+   },
+   {
+    "FL_p": 0.009409172,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:59:27",
+    "timestamp": 1609138767263
+   },
+   {
+    "timestamp": 1609138771263,
+    "FL_p": 0.009452081,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:59:31"
+   },
+   {
+    "FL_p": 0.009494989,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:59:35",
+    "timestamp": 1609138775263
+   },
+   {
+    "timestamp": 1609138779263,
+    "FL_p": 0.009537898,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:59:39"
+   },
+   {
+    "timestamp": 1609138783263,
+    "FL_p": 0.009580807,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:59:43"
+   },
+   {
+    "FL_p": 0.009623716,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 14:59:47",
+    "timestamp": 1609138787263
+   },
+   {
+    "localtime": "2020-12-28 14:59:51",
+    "timestamp": 1609138791263,
+    "FL_p": 0.009666624,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "FL_p": 0.009709532,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609138795263,
+    "localtime": "2020-12-28 14:59:55"
+   },
+   {
+    "localtime": "2020-12-28 14:59:59",
+    "timestamp": 1609138799263,
+    "FL_p": 0.009752441,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609138803263,
+    "FL_p": 0.00979535,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:00:03"
+   },
+   {
+    "timestamp": 1609138807263,
+    "FL_p": 0.009741752,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:00:07"
+   },
+   {
+    "timestamp": 1609138811263,
+    "localtime": "2020-12-28 15:00:11",
+    "FL_p": 0.009688154,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609138815263,
+    "FL_p": 0.009634556,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:00:15"
+   },
+   {
+    "FL_p": 0.009580959,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609138819263,
+    "localtime": "2020-12-28 15:00:19"
+   },
+   {
+    "localtime": "2020-12-28 15:00:23",
+    "FL_p": 0.009527361,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609138823263
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609138827263,
+    "FL_p": 0.009473763,
+    "localtime": "2020-12-28 15:00:27"
+   },
+   {
+    "FL_p": 0.009420166,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609138831263,
+    "localtime": "2020-12-28 15:00:31"
+   },
+   {
+    "localtime": "2020-12-28 15:00:35",
+    "FL_p": 0.009366568,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609138835263
+   },
+   {
+    "localtime": "2020-12-28 15:00:39",
+    "timestamp": 1609138839263,
+    "FL_p": 0.009312971,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "FL_p": 0.009259373,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:00:43",
+    "timestamp": 1609138843263
+   },
+   {
+    "timestamp": 1609138847263,
+    "FL_p": 0.009205775,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:00:47"
+   },
+   {
+    "FL_p": 0.009152178,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609138851263,
+    "localtime": "2020-12-28 15:00:51"
+   },
+   {
+    "timestamp": 1609138855263,
+    "FL_p": 0.00909858,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:00:55"
+   },
+   {
+    "localtime": "2020-12-28 15:00:59",
+    "timestamp": 1609138859263,
+    "FL_p": 0.0090449825,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609138863263,
+    "FL_p": 0.008991385,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:01:03"
+   },
+   {
+    "timestamp": 1609138867263,
+    "FL_p": 0.0090453755,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:01:07"
+   },
+   {
+    "FL_p": 0.009099365,
+    "localtime": "2020-12-28 15:01:11",
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609138871263
+   },
+   {
+    "localtime": "2020-12-28 15:01:15",
+    "timestamp": 1609138875263,
+    "FL_p": 0.009153356,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609138879263,
+    "FL_p": 0.0092073465,
+    "localtime": "2020-12-28 15:01:19"
+   },
+   {
+    "timestamp": 1609138883263,
+    "FL_p": 0.009261336,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:01:23"
+   },
+   {
+    "localtime": "2020-12-28 15:01:27",
+    "timestamp": 1609138887263,
+    "FL_p": 0.009315327,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "localtime": "2020-12-28 15:01:31",
+    "timestamp": 1609138891263,
+    "FL_p": 0.009369317,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609138895263,
+    "FL_p": 0.009423308,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:01:35"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:01:39",
+    "timestamp": 1609138899263,
+    "FL_p": 0.009477298
+   },
+   {
+    "timestamp": 1609138903263,
+    "FL_p": 0.009531288,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:01:43"
+   },
+   {
+    "timestamp": 1609138907263,
+    "FL_p": 0.009585279,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:01:47"
+   },
+   {
+    "localtime": "2020-12-28 15:01:51",
+    "timestamp": 1609138911263,
+    "FL_p": 0.009639269,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:01:55",
+    "timestamp": 1609138915263,
+    "FL_p": 0.009693259
+   },
+   {
+    "timestamp": 1609138919263,
+    "FL_p": 0.00974725,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:01:59"
+   },
+   {
+    "timestamp": 1609138923263,
+    "FL_p": 0.00980124,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:02:03"
+   },
+   {
+    "localtime": "2020-12-28 15:02:07",
+    "timestamp": 1609138927263,
+    "FL_p": 0.009794305,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "localtime": "2020-12-28 15:02:11",
+    "timestamp": 1609138931263,
+    "FL_p": 0.0097873695,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609138935263,
+    "FL_p": 0.009780435,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:02:15"
+   },
+   {
+    "timestamp": 1609138939263,
+    "FL_p": 0.009773499,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:02:19"
+   },
+   {
+    "timestamp": 1609138943263,
+    "FL_p": 0.009766565,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:02:23"
+   },
+   {
+    "timestamp": 1609138947263,
+    "FL_p": 0.009759629,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:02:27"
+   },
+   {
+    "timestamp": 1609138951263,
+    "FL_p": 0.0097526945,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:02:31"
+   },
+   {
+    "timestamp": 1609138955263,
+    "FL_p": 0.009745759,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:02:35"
+   },
+   {
+    "timestamp": 1609138959263,
+    "FL_p": 0.009738824,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:02:39"
+   },
+   {
+    "localtime": "2020-12-28 15:02:43",
+    "timestamp": 1609138963263,
+    "FL_p": 0.009731889,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "FL_p": 0.009724954,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609138967263,
+    "localtime": "2020-12-28 15:02:47"
+   },
+   {
+    "timestamp": 1609138971263,
+    "FL_p": 0.009718019,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:02:51"
+   },
+   {
+    "timestamp": 1609138975263,
+    "FL_p": 0.009711084,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:02:55"
+   },
+   {
+    "localtime": "2020-12-28 15:02:59",
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609138979263,
+    "FL_p": 0.009704148
+   },
+   {
+    "FL_p": 0.009697214,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:03:03",
+    "timestamp": 1609138983263
+   },
+   {
+    "timestamp": 1609138987263,
+    "FL_p": 0.009702584,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:03:07"
+   },
+   {
+    "FL_p": 0.009707955,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609138991263,
+    "localtime": "2020-12-28 15:03:11"
+   },
+   {
+    "FL_p": 0.009713325,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609138995263,
+    "localtime": "2020-12-28 15:03:15"
+   },
+   {
+    "timestamp": 1609138999263,
+    "FL_p": 0.009718696,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:03:19"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609139003263,
+    "FL_p": 0.009724066,
+    "localtime": "2020-12-28 15:03:23"
+   },
+   {
+    "FL_p": 0.009729437,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609139007263,
+    "localtime": "2020-12-28 15:03:27"
+   },
+   {
+    "timestamp": 1609139011263,
+    "FL_p": 0.009734807,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:03:31"
+   },
+   {
+    "timestamp": 1609139015263,
+    "FL_p": 0.009740178,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:03:35"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:03:39",
+    "timestamp": 1609139019263,
+    "FL_p": 0.009745548
+   },
+   {
+    "timestamp": 1609139023263,
+    "FL_p": 0.0097509185,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:03:43"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:03:47",
+    "timestamp": 1609139027263,
+    "FL_p": 0.0097562885
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:03:51",
+    "timestamp": 1609139031263,
+    "FL_p": 0.009761659
+   },
+   {
+    "timestamp": 1609139035263,
+    "FL_p": 0.009767029,
+    "localtime": "2020-12-28 15:03:55",
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "FL_p": 0.0097724,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609139039263,
+    "localtime": "2020-12-28 15:03:59"
+   },
+   {
+    "timestamp": 1609139043263,
+    "FL_p": 0.00977777,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:04:03"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609139047263,
+    "localtime": "2020-12-28 15:04:07",
+    "FL_p": 0.009745425
+   },
+   {
+    "timestamp": 1609139051263,
+    "FL_p": 0.009713079,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:04:11"
+   },
+   {
+    "timestamp": 1609139055263,
+    "FL_p": 0.009680732,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:04:15"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609139059263,
+    "FL_p": 0.009648386,
+    "localtime": "2020-12-28 15:04:19"
+   },
+   {
+    "timestamp": 1609139063263,
+    "FL_p": 0.00961604,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:04:23"
+   },
+   {
+    "FL_p": 0.009583694,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:04:27",
+    "timestamp": 1609139067263
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609139071263,
+    "FL_p": 0.009551348,
+    "localtime": "2020-12-28 15:04:31"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609139075263,
+    "FL_p": 0.0095190015,
+    "localtime": "2020-12-28 15:04:35"
+   },
+   {
+    "timestamp": 1609139079263,
+    "FL_p": 0.009486656,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:04:39"
+   },
+   {
+    "timestamp": 1609139083263,
+    "FL_p": 0.009454309,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:04:43"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:04:47",
+    "timestamp": 1609139087263,
+    "FL_p": 0.009421963
+   },
+   {
+    "timestamp": 1609139091263,
+    "FL_p": 0.0093896175,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:04:51"
+   },
+   {
+    "FL_p": 0.009357271,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609139095263,
+    "localtime": "2020-12-28 15:04:55"
+   },
+   {
+    "timestamp": 1609139099263,
+    "FL_p": 0.009324925,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:04:59"
+   },
+   {
+    "FL_p": 0.009292578,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609139103263,
+    "localtime": "2020-12-28 15:05:03"
+   },
+   {
+    "timestamp": 1609139107263,
+    "FL_p": 0.009234239,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:05:07"
+   },
+   {
+    "timestamp": 1609139111263,
+    "FL_p": 0.009175899,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:05:11"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:05:15",
+    "timestamp": 1609139115263,
+    "FL_p": 0.00911756
+   },
+   {
+    "timestamp": 1609139119263,
+    "FL_p": 0.009059221,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:05:19"
+   },
+   {
+    "timestamp": 1609139123263,
+    "FL_p": 0.009000882,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:05:23"
+   },
+   {
+    "timestamp": 1609139127263,
+    "FL_p": 0.008942542,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:05:27"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609139131263,
+    "FL_p": 0.008884203,
+    "localtime": "2020-12-28 15:05:31"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:05:35",
+    "timestamp": 1609139135263,
+    "FL_p": 0.008825863
+   },
+   {
+    "localtime": "2020-12-28 15:05:39",
+    "timestamp": 1609139139263,
+    "FL_p": 0.008767524,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609139143263,
+    "FL_p": 0.008709184,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:05:43"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609139147263,
+    "FL_p": 0.008650845,
+    "localtime": "2020-12-28 15:05:47"
+   },
+   {
+    "localtime": "2020-12-28 15:05:51",
+    "timestamp": 1609139151263,
+    "FL_p": 0.008592505,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609139155263,
+    "FL_p": 0.008534166,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:05:55"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609139159263,
+    "localtime": "2020-12-28 15:05:59",
+    "FL_p": 0.008475826
+   },
+   {
+    "localtime": "2020-12-28 15:06:03",
+    "timestamp": 1609139163263,
+    "FL_p": 0.008417487,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609139167263,
+    "FL_p": 0.008440685,
+    "localtime": "2020-12-28 15:06:07",
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609139171263,
+    "localtime": "2020-12-28 15:06:11",
+    "FL_p": 0.008463885
+   },
+   {
+    "timestamp": 1609139175263,
+    "FL_p": 0.008487084,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:06:15"
+   },
+   {
+    "localtime": "2020-12-28 15:06:19",
+    "timestamp": 1609139179263,
+    "FL_p": 0.008510283,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609139183263,
+    "FL_p": 0.008533482,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:06:23"
+   },
+   {
+    "timestamp": 1609139187263,
+    "FL_p": 0.008556682,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:06:27"
+   },
+   {
+    "localtime": "2020-12-28 15:06:31",
+    "timestamp": 1609139191263,
+    "FL_p": 0.008579881,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609139195263,
+    "FL_p": 0.008603079,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:06:35"
+   },
+   {
+    "timestamp": 1609139199263,
+    "FL_p": 0.0086262785,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:06:39"
+   },
+   {
+    "timestamp": 1609139203263,
+    "FL_p": 0.008649478,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:06:43"
+   },
+   {
+    "timestamp": 1609139207263,
+    "FL_p": 0.008672677,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:06:47"
+   },
+   {
+    "timestamp": 1609139211263,
+    "FL_p": 0.008695876,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:06:51"
+   },
+   {
+    "localtime": "2020-12-28 15:06:55",
+    "timestamp": 1609139215263,
+    "FL_p": 0.0087190755,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609139219263,
+    "FL_p": 0.008742275,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:06:59"
+   },
+   {
+    "timestamp": 1609139223263,
+    "FL_p": 0.008765473,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:07:03"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609139227263,
+    "FL_p": 0.008686693,
+    "localtime": "2020-12-28 15:07:07"
+   },
+   {
+    "timestamp": 1609139231263,
+    "FL_p": 0.008607914,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:07:11"
+   },
+   {
+    "FL_p": 0.008529135,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609139235263,
+    "localtime": "2020-12-28 15:07:15"
+   },
+   {
+    "FL_p": 0.008450355,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609139239263,
+    "localtime": "2020-12-28 15:07:19"
+   },
+   {
+    "timestamp": 1609139243263,
+    "FL_p": 0.008371576,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:07:23"
+   },
+   {
+    "timestamp": 1609139247263,
+    "FL_p": 0.008292796,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:07:27"
+   },
+   {
+    "timestamp": 1609139251263,
+    "FL_p": 0.008214016,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:07:31"
+   },
+   {
+    "timestamp": 1609139255263,
+    "FL_p": 0.008135237,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:07:35"
+   },
+   {
+    "timestamp": 1609139259263,
+    "FL_p": 0.008056457,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:07:39"
+   },
+   {
+    "timestamp": 1609139263263,
+    "FL_p": 0.0079776775,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:07:43"
+   },
+   {
+    "timestamp": 1609139267263,
+    "FL_p": 0.007898898,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:07:47"
+   },
+   {
+    "FL_p": 0.007820118,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:07:51",
+    "timestamp": 1609139271263
+   },
+   {
+    "localtime": "2020-12-28 15:07:55",
+    "timestamp": 1609139275263,
+    "FL_p": 0.0077413386,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609139279263,
+    "FL_p": 0.007662559,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:07:59"
+   },
+   {
+    "timestamp": 1609139283263,
+    "FL_p": 0.0075837793,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:08:03"
+   },
+   {
+    "timestamp": 1609139287263,
+    "FL_p": 0.0076118396,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:08:07"
+   },
+   {
+    "timestamp": 1609139291263,
+    "FL_p": 0.0076399,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:08:11"
+   },
+   {
+    "localtime": "2020-12-28 15:08:15",
+    "timestamp": 1609139295263,
+    "FL_p": 0.00766796,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "FL_p": 0.0076960204,
+    "localtime": "2020-12-28 15:08:19",
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609139299263
+   },
+   {
+    "timestamp": 1609139303263,
+    "FL_p": 0.0077240807,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:08:23"
+   },
+   {
+    "FL_p": 0.0077521414,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:08:27",
+    "timestamp": 1609139307263
+   },
+   {
+    "timestamp": 1609139311263,
+    "FL_p": 0.0077802017,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:08:31"
+   },
+   {
+    "localtime": "2020-12-28 15:08:35",
+    "FL_p": 0.007808262,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609139315263
+   },
+   {
+    "FL_p": 0.007836322,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:08:39",
+    "timestamp": 1609139319263
+   },
+   {
+    "timestamp": 1609139323263,
+    "FL_p": 0.007864383,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:08:43"
+   },
+   {
+    "localtime": "2020-12-28 15:08:47",
+    "timestamp": 1609139327263,
+    "FL_p": 0.007892443,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609139331263,
+    "FL_p": 0.007920504,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:08:51"
+   },
+   {
+    "timestamp": 1609139335263,
+    "FL_p": 0.007948563,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:08:55"
+   },
+   {
+    "localtime": "2020-12-28 15:08:59",
+    "timestamp": 1609139339263,
+    "FL_p": 0.007976624,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:09:03",
+    "timestamp": 1609139343263,
+    "FL_p": 0.008004684
+   },
+   {
+    "FL_p": 0.007991873,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609139347263,
+    "localtime": "2020-12-28 15:09:07"
+   },
+   {
+    "timestamp": 1609139351263,
+    "FL_p": 0.007979061,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:09:11"
+   },
+   {
+    "FL_p": 0.00796625,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:09:15",
+    "timestamp": 1609139355263
+   },
+   {
+    "FL_p": 0.007953439,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:09:19",
+    "timestamp": 1609139359263
+   },
+   {
+    "timestamp": 1609139363263,
+    "FL_p": 0.007940628,
+    "localtime": "2020-12-28 15:09:23",
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609139367263,
+    "FL_p": 0.007927815,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:09:27"
+   },
+   {
+    "timestamp": 1609139371263,
+    "FL_p": 0.007915004,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:09:31"
+   },
+   {
+    "localtime": "2020-12-28 15:09:35",
+    "timestamp": 1609139375263,
+    "FL_p": 0.007902193,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609139379263,
+    "FL_p": 0.007889382,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:09:39"
+   },
+   {
+    "localtime": "2020-12-28 15:09:43",
+    "timestamp": 1609139383263,
+    "FL_p": 0.00787657,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609139387263,
+    "FL_p": 0.007863758,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:09:47"
+   },
+   {
+    "timestamp": 1609139391263,
+    "FL_p": 0.007850947,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:09:51"
+   },
+   {
+    "timestamp": 1609139395263,
+    "FL_p": 0.007838136,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:09:55"
+   },
+   {
+    "timestamp": 1609139399263,
+    "FL_p": 0.007825324,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:09:59"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609139403263,
+    "FL_p": 0.007812513,
+    "localtime": "2020-12-28 15:10:03"
+   },
+   {
+    "timestamp": 1609139407263,
+    "FL_p": 0.007803558,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:10:07"
+   },
+   {
+    "FL_p": 0.0077946032,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:10:11",
+    "timestamp": 1609139411263
+   },
+   {
+    "timestamp": 1609139415263,
+    "FL_p": 0.007785648,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:10:15"
+   },
+   {
+    "localtime": "2020-12-28 15:10:19",
+    "timestamp": 1609139419263,
+    "FL_p": 0.0077766934,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609139423263,
+    "FL_p": 0.007767739,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:10:23"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:10:27",
+    "timestamp": 1609139427263,
+    "FL_p": 0.0077587836
+   },
+   {
+    "timestamp": 1609139431263,
+    "FL_p": 0.007749829,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:10:31"
+   },
+   {
+    "timestamp": 1609139435263,
+    "FL_p": 0.0077408743,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:10:35"
+   },
+   {
+    "timestamp": 1609139439263,
+    "FL_p": 0.007731919,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:10:39"
+   },
+   {
+    "timestamp": 1609139443263,
+    "FL_p": 0.0077229645,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:10:43"
+   },
+   {
+    "timestamp": 1609139447263,
+    "FL_p": 0.0077140094,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:10:47"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:10:51",
+    "timestamp": 1609139451263,
+    "FL_p": 0.0077050547
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:10:55",
+    "timestamp": 1609139455263,
+    "FL_p": 0.0076961
+   },
+   {
+    "timestamp": 1609139459263,
+    "FL_p": 0.007687145,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:10:59"
+   },
+   {
+    "timestamp": 1609139463263,
+    "FL_p": 0.0076781902,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:11:03"
+   },
+   {
+    "localtime": "2020-12-28 15:11:07",
+    "timestamp": 1609139467263,
+    "FL_p": 0.0076704733,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609139471263,
+    "FL_p": 0.0076627564,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:11:11"
+   },
+   {
+    "localtime": "2020-12-28 15:11:15",
+    "timestamp": 1609139475263,
+    "FL_p": 0.0076550394,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:11:19",
+    "timestamp": 1609139479263,
+    "FL_p": 0.0076473225
+   },
+   {
+    "FL_p": 0.0076396056,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609139483263,
+    "localtime": "2020-12-28 15:11:23"
+   },
+   {
+    "timestamp": 1609139487263,
+    "FL_p": 0.0076318886,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:11:27"
+   },
+   {
+    "timestamp": 1609139491263,
+    "FL_p": 0.0076241717,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:11:31"
+   },
+   {
+    "FL_p": 0.0076164547,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609139495263,
+    "localtime": "2020-12-28 15:11:35"
+   },
+   {
+    "timestamp": 1609139499263,
+    "FL_p": 0.007608738,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:11:39"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609139503263,
+    "FL_p": 0.007601021,
+    "localtime": "2020-12-28 15:11:43"
+   },
+   {
+    "FL_p": 0.007593304,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:11:47",
+    "timestamp": 1609139507263
+   },
+   {
+    "FL_p": 0.007585587,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:11:51",
+    "timestamp": 1609139511263
+   },
+   {
+    "timestamp": 1609139515263,
+    "FL_p": 0.00757787,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:11:55"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609139519263,
+    "localtime": "2020-12-28 15:11:59",
+    "FL_p": 0.0075701536
+   },
+   {
+    "FL_p": 0.0075624366,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:12:03",
+    "timestamp": 1609139523263
+   },
+   {
+    "FL_p": 0.0075620427,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:12:07",
+    "timestamp": 1609139527263
+   },
+   {
+    "timestamp": 1609139531263,
+    "localtime": "2020-12-28 15:12:11",
+    "FL_p": 0.007561649,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:12:15",
+    "timestamp": 1609139535263,
+    "FL_p": 0.0075612557
+   },
+   {
+    "FL_p": 0.007560862,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609139539263,
+    "localtime": "2020-12-28 15:12:19"
+   },
+   {
+    "FL_p": 0.0075604687,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609139543263,
+    "localtime": "2020-12-28 15:12:23"
+   },
+   {
+    "timestamp": 1609139547263,
+    "FL_p": 0.0075600753,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:12:27"
+   },
+   {
+    "timestamp": 1609139551263,
+    "FL_p": 0.007559682,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:12:31"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:12:35",
+    "timestamp": 1609139555263,
+    "FL_p": 0.007559288
+   },
+   {
+    "FL_p": 0.0075588943,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:12:39",
+    "timestamp": 1609139559263
+   },
+   {
+    "timestamp": 1609139563263,
+    "FL_p": 0.007558501,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:12:43"
+   },
+   {
+    "FL_p": 0.0075581074,
+    "localtime": "2020-12-28 15:12:47",
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609139567263
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:12:51",
+    "timestamp": 1609139571263,
+    "FL_p": 0.007557714
+   },
+   {
+    "timestamp": 1609139575263,
+    "FL_p": 0.0075573204,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:12:55"
+   },
+   {
+    "timestamp": 1609139579263,
+    "FL_p": 0.007556927,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:12:59"
+   },
+   {
+    "localtime": "2020-12-28 15:13:03",
+    "timestamp": 1609139583263,
+    "FL_p": 0.007556533,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "FL_p": 0.007554446,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609139587263,
+    "localtime": "2020-12-28 15:13:07"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609139591263,
+    "FL_p": 0.0075523583,
+    "localtime": "2020-12-28 15:13:11"
+   },
+   {
+    "FL_p": 0.0075502708,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609139595263,
+    "localtime": "2020-12-28 15:13:15"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609139599263,
+    "localtime": "2020-12-28 15:13:19",
+    "FL_p": 0.007548183
+   },
+   {
+    "timestamp": 1609139603263,
+    "FL_p": 0.007546096,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:13:23"
+   },
+   {
+    "timestamp": 1609139607263,
+    "FL_p": 0.0075440085,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:13:27"
+   },
+   {
+    "timestamp": 1609139611263,
+    "FL_p": 0.007541921,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:13:31"
+   },
+   {
+    "localtime": "2020-12-28 15:13:35",
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609139615263,
+    "FL_p": 0.0075398334
+   },
+   {
+    "timestamp": 1609139619263,
+    "localtime": "2020-12-28 15:13:39",
+    "FL_p": 0.0075377463,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609139623263,
+    "FL_p": 0.007535659,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:13:43"
+   },
+   {
+    "timestamp": 1609139627263,
+    "FL_p": 0.007533571,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:13:47"
+   },
+   {
+    "FL_p": 0.0075314837,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:13:51",
+    "timestamp": 1609139631263
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609139635263,
+    "localtime": "2020-12-28 15:13:55",
+    "FL_p": 0.0075293966
+   },
+   {
+    "timestamp": 1609139639263,
+    "FL_p": 0.007527309,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:13:59"
+   },
+   {
+    "timestamp": 1609139643263,
+    "FL_p": 0.0075252214,
+    "localtime": "2020-12-28 15:14:03",
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "FL_p": 0.007463464,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:14:07",
+    "timestamp": 1609139647263
+   },
+   {
+    "localtime": "2020-12-28 15:14:11",
+    "FL_p": 0.0074017067,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609139651263
+   },
+   {
+    "timestamp": 1609139655263,
+    "FL_p": 0.0073399497,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:14:15"
+   },
+   {
+    "localtime": "2020-12-28 15:14:19",
+    "timestamp": 1609139659263,
+    "FL_p": 0.0072781923,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:14:23",
+    "timestamp": 1609139663263,
+    "FL_p": 0.007216435
+   },
+   {
+    "localtime": "2020-12-28 15:14:27",
+    "timestamp": 1609139667263,
+    "FL_p": 0.0071546775,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "localtime": "2020-12-28 15:14:31",
+    "timestamp": 1609139671263,
+    "FL_p": 0.00709292,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609139675263,
+    "FL_p": 0.0070311627,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:14:35"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:14:39",
+    "timestamp": 1609139679263,
+    "FL_p": 0.0069694053
+   },
+   {
+    "FL_p": 0.0069076484,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:14:43",
+    "timestamp": 1609139683263
+   },
+   {
+    "timestamp": 1609139687263,
+    "FL_p": 0.006845891,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:14:47"
+   },
+   {
+    "localtime": "2020-12-28 15:14:51",
+    "timestamp": 1609139691263,
+    "FL_p": 0.0067841336,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609139695263,
+    "FL_p": 0.006722376,
+    "localtime": "2020-12-28 15:14:55",
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:14:59",
+    "timestamp": 1609139699263,
+    "FL_p": 0.006660619
+   },
+   {
+    "timestamp": 1609139703263,
+    "localtime": "2020-12-28 15:15:03",
+    "FL_p": 0.0065988614,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "FL_p": 0.006589449,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609139707263,
+    "localtime": "2020-12-28 15:15:07"
+   },
+   {
+    "timestamp": 1609139711263,
+    "FL_p": 0.006580037,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:15:11"
+   },
+   {
+    "timestamp": 1609139715263,
+    "FL_p": 0.0065706247,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:15:15"
+   },
+   {
+    "timestamp": 1609139719263,
+    "FL_p": 0.0065612122,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:15:19"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:15:23",
+    "timestamp": 1609139723263,
+    "FL_p": 0.0065518
+   },
+   {
+    "localtime": "2020-12-28 15:15:27",
+    "FL_p": 0.006542388,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609139727263
+   },
+   {
+    "FL_p": 0.0065329755,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609139731263,
+    "localtime": "2020-12-28 15:15:31"
+   },
+   {
+    "FL_p": 0.006523563,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609139735263,
+    "localtime": "2020-12-28 15:15:35"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:15:39",
+    "timestamp": 1609139739263,
+    "FL_p": 0.0065141506
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:15:43",
+    "timestamp": 1609139743263,
+    "FL_p": 0.0065047387
+   },
+   {
+    "timestamp": 1609139747263,
+    "FL_p": 0.0064953263,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:15:47"
+   },
+   {
+    "timestamp": 1609139751263,
+    "FL_p": 0.006485914,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:15:51"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609139755263,
+    "FL_p": 0.0064765015,
+    "localtime": "2020-12-28 15:15:55"
+   },
+   {
+    "localtime": "2020-12-28 15:15:59",
+    "timestamp": 1609139759263,
+    "FL_p": 0.006467089,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "localtime": "2020-12-28 15:16:03",
+    "timestamp": 1609139763263,
+    "FL_p": 0.006457677,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "FL_p": 0.0065151933,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609139767263,
+    "localtime": "2020-12-28 15:16:07"
+   },
+   {
+    "timestamp": 1609139771263,
+    "FL_p": 0.00657271,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:16:11"
+   },
+   {
+    "timestamp": 1609139775263,
+    "FL_p": 0.0066302265,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:16:15"
+   },
+   {
+    "FL_p": 0.0066877427,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609139779263,
+    "localtime": "2020-12-28 15:16:19"
+   },
+   {
+    "timestamp": 1609139783263,
+    "FL_p": 0.0067452593,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:16:23"
+   },
+   {
+    "timestamp": 1609139787263,
+    "FL_p": 0.006802776,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:16:27"
+   },
+   {
+    "timestamp": 1609139791263,
+    "FL_p": 0.006860292,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:16:31"
+   },
+   {
+    "timestamp": 1609139795263,
+    "FL_p": 0.0069178087,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:16:35"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609139799263,
+    "FL_p": 0.0069753253,
+    "localtime": "2020-12-28 15:16:39"
+   },
+   {
+    "timestamp": 1609139803263,
+    "FL_p": 0.0070328414,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:16:43"
+   },
+   {
+    "timestamp": 1609139807263,
+    "FL_p": 0.007090358,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:16:47"
+   },
+   {
+    "localtime": "2020-12-28 15:16:51",
+    "timestamp": 1609139811263,
+    "FL_p": 0.0071478747,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609139815263,
+    "FL_p": 0.007205391,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:16:55"
+   },
+   {
+    "timestamp": 1609139819263,
+    "FL_p": 0.0072629075,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:16:59"
+   },
+   {
+    "FL_p": 0.007320424,
+    "localtime": "2020-12-28 15:17:03",
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609139823263
+   },
+   {
+    "localtime": "2020-12-28 15:17:07",
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609139827263,
+    "FL_p": 0.0073058214
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:17:11",
+    "timestamp": 1609139831263,
+    "FL_p": 0.0072912187
+   },
+   {
+    "timestamp": 1609139835263,
+    "FL_p": 0.007276616,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:17:15"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609139839263,
+    "FL_p": 0.0072620134,
+    "localtime": "2020-12-28 15:17:19"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:17:23",
+    "timestamp": 1609139843263,
+    "FL_p": 0.0072474107
+   },
+   {
+    "timestamp": 1609139847263,
+    "FL_p": 0.007232808,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:17:27"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609139851263,
+    "FL_p": 0.0072182054,
+    "localtime": "2020-12-28 15:17:31"
+   },
+   {
+    "timestamp": 1609139855263,
+    "FL_p": 0.0072036027,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:17:35"
+   },
+   {
+    "localtime": "2020-12-28 15:17:39",
+    "timestamp": 1609139859263,
+    "FL_p": 0.007189,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609139863263,
+    "FL_p": 0.0071743974,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:17:43"
+   },
+   {
+    "timestamp": 1609139867263,
+    "FL_p": 0.0071597947,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:17:47"
+   },
+   {
+    "timestamp": 1609139871263,
+    "FL_p": 0.007145192,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:17:51"
+   },
+   {
+    "timestamp": 1609139875263,
+    "FL_p": 0.0071305893,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:17:55"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:17:59",
+    "timestamp": 1609139879263,
+    "FL_p": 0.0071159867
+   },
+   {
+    "localtime": "2020-12-28 15:18:03",
+    "timestamp": 1609139883263,
+    "FL_p": 0.007101384,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609139887263,
+    "FL_p": 0.0071373647,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:18:07"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:18:11",
+    "timestamp": 1609139891263,
+    "FL_p": 0.007173345
+   },
+   {
+    "FL_p": 0.0072093257,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609139895263,
+    "localtime": "2020-12-28 15:18:15"
+   },
+   {
+    "timestamp": 1609139899263,
+    "FL_p": 0.007245306,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:18:19"
+   },
+   {
+    "timestamp": 1609139903263,
+    "FL_p": 0.0072812866,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:18:23"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609139907263,
+    "FL_p": 0.0073172674,
+    "localtime": "2020-12-28 15:18:27"
+   },
+   {
+    "timestamp": 1609139911263,
+    "FL_p": 0.0073532476,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:18:31"
+   },
+   {
+    "timestamp": 1609139915263,
+    "FL_p": 0.0073892283,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:18:35"
+   },
+   {
+    "FL_p": 0.0074252086,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609139919263,
+    "localtime": "2020-12-28 15:18:39"
+   },
+   {
+    "localtime": "2020-12-28 15:18:43",
+    "timestamp": 1609139923263,
+    "FL_p": 0.0074611893,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609139927263,
+    "FL_p": 0.00749717,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:18:47"
+   },
+   {
+    "localtime": "2020-12-28 15:18:51",
+    "timestamp": 1609139931263,
+    "FL_p": 0.0075331503,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609139935263,
+    "FL_p": 0.007569131,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:18:55"
+   },
+   {
+    "timestamp": 1609139939263,
+    "FL_p": 0.007605111,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:18:59"
+   },
+   {
+    "localtime": "2020-12-28 15:19:03",
+    "FL_p": 0.007641092,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609139943263
+   },
+   {
+    "FL_p": 0.007630154,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:19:07",
+    "timestamp": 1609139947263
+   },
+   {
+    "FL_p": 0.007619216,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609139951263,
+    "localtime": "2020-12-28 15:19:11"
+   },
+   {
+    "timestamp": 1609139955263,
+    "FL_p": 0.007608278,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:19:15"
+   },
+   {
+    "localtime": "2020-12-28 15:19:19",
+    "timestamp": 1609139959263,
+    "FL_p": 0.00759734,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609139963263,
+    "FL_p": 0.007586402,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:19:23"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:19:27",
+    "timestamp": 1609139967263,
+    "FL_p": 0.007575464
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609139971263,
+    "localtime": "2020-12-28 15:19:31",
+    "FL_p": 0.007564526
+   },
+   {
+    "FL_p": 0.007553588,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609139975263,
+    "localtime": "2020-12-28 15:19:35"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609139979263,
+    "localtime": "2020-12-28 15:19:39",
+    "FL_p": 0.00754265
+   },
+   {
+    "timestamp": 1609139983263,
+    "FL_p": 0.0075317123,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:19:43"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:19:47",
+    "timestamp": 1609139987263,
+    "FL_p": 0.0075207744
+   },
+   {
+    "FL_p": 0.007509836,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:19:51",
+    "timestamp": 1609139991263
+   },
+   {
+    "timestamp": 1609139995263,
+    "FL_p": 0.007498898,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:19:55"
+   },
+   {
+    "timestamp": 1609139999263,
+    "FL_p": 0.00748796,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:19:59"
+   },
+   {
+    "timestamp": 1609140003263,
+    "FL_p": 0.0074770222,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:20:03"
+   },
+   {
+    "FL_p": 0.007521463,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:20:07",
+    "timestamp": 1609140007263
+   },
+   {
+    "timestamp": 1609140011263,
+    "FL_p": 0.0075659044,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:20:11"
+   },
+   {
+    "timestamp": 1609140015263,
+    "FL_p": 0.0076103453,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:20:15"
+   },
+   {
+    "FL_p": 0.007654786,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609140019263,
+    "localtime": "2020-12-28 15:20:19"
+   },
+   {
+    "FL_p": 0.0076992274,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:20:23",
+    "timestamp": 1609140023263
+   },
+   {
+    "timestamp": 1609140027263,
+    "FL_p": 0.0077436683,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:20:27"
+   },
+   {
+    "timestamp": 1609140031263,
+    "FL_p": 0.007788109,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:20:31"
+   },
+   {
+    "timestamp": 1609140035263,
+    "FL_p": 0.00783255,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:20:35"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609140039263,
+    "FL_p": 0.007876991,
+    "localtime": "2020-12-28 15:20:39"
+   },
+   {
+    "timestamp": 1609140043263,
+    "FL_p": 0.007921432,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:20:43"
+   },
+   {
+    "timestamp": 1609140047263,
+    "FL_p": 0.007965873,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:20:47"
+   },
+   {
+    "timestamp": 1609140051263,
+    "FL_p": 0.008010315,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:20:51"
+   },
+   {
+    "localtime": "2020-12-28 15:20:55",
+    "timestamp": 1609140055263,
+    "FL_p": 0.008054756,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "FL_p": 0.0080991965,
+    "localtime": "2020-12-28 15:20:59",
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609140059263
+   },
+   {
+    "timestamp": 1609140063263,
+    "FL_p": 0.008143637,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:21:03"
+   },
+   {
+    "FL_p": 0.008184424,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:21:07",
+    "timestamp": 1609140067263
+   },
+   {
+    "timestamp": 1609140071263,
+    "FL_p": 0.00822521,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:21:11"
+   },
+   {
+    "timestamp": 1609140075263,
+    "FL_p": 0.008265996,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:21:15"
+   },
+   {
+    "FL_p": 0.008306782,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:21:19",
+    "timestamp": 1609140079263
+   },
+   {
+    "timestamp": 1609140083263,
+    "FL_p": 0.008347568,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:21:23"
+   },
+   {
+    "timestamp": 1609140087263,
+    "FL_p": 0.008388354,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:21:27"
+   },
+   {
+    "timestamp": 1609140091263,
+    "FL_p": 0.008429141,
+    "localtime": "2020-12-28 15:21:31",
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609140095263,
+    "FL_p": 0.008469927,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:21:35"
+   },
+   {
+    "timestamp": 1609140099263,
+    "FL_p": 0.0085107125,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:21:39"
+   },
+   {
+    "timestamp": 1609140103263,
+    "FL_p": 0.008551499,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:21:43"
+   },
+   {
+    "FL_p": 0.008592285,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:21:47",
+    "timestamp": 1609140107263
+   },
+   {
+    "FL_p": 0.008633072,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609140111263,
+    "localtime": "2020-12-28 15:21:51"
+   },
+   {
+    "timestamp": 1609140115263,
+    "FL_p": 0.008673858,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:21:55"
+   },
+   {
+    "FL_p": 0.008714644,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609140119263,
+    "localtime": "2020-12-28 15:21:59"
+   },
+   {
+    "timestamp": 1609140123263,
+    "FL_p": 0.00875543,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:22:03"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:22:07",
+    "timestamp": 1609140127263,
+    "FL_p": 0.008782427
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:22:11",
+    "timestamp": 1609140131263,
+    "FL_p": 0.008809424
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609140135263,
+    "localtime": "2020-12-28 15:22:15",
+    "FL_p": 0.008836421
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:22:19",
+    "timestamp": 1609140139263,
+    "FL_p": 0.008863417
+   },
+   {
+    "timestamp": 1609140143263,
+    "FL_p": 0.008890415,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:22:23"
+   },
+   {
+    "timestamp": 1609140147263,
+    "FL_p": 0.008917412,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:22:27"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609140151263,
+    "FL_p": 0.008944408,
+    "localtime": "2020-12-28 15:22:31"
+   },
+   {
+    "timestamp": 1609140155263,
+    "FL_p": 0.008971405,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:22:35"
+   },
+   {
+    "FL_p": 0.008998402,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609140159263,
+    "localtime": "2020-12-28 15:22:39"
+   },
+   {
+    "timestamp": 1609140163263,
+    "FL_p": 0.0090254,
+    "localtime": "2020-12-28 15:22:43",
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609140167263,
+    "FL_p": 0.009052396,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:22:47"
+   },
+   {
+    "localtime": "2020-12-28 15:22:51",
+    "timestamp": 1609140171263,
+    "FL_p": 0.009079393,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609140175263,
+    "FL_p": 0.00910639,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:22:55"
+   },
+   {
+    "FL_p": 0.009133386,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609140179263,
+    "localtime": "2020-12-28 15:22:59"
+   },
+   {
+    "timestamp": 1609140183263,
+    "FL_p": 0.009160384,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:23:03"
+   },
+   {
+    "timestamp": 1609140187263,
+    "FL_p": 0.0091637,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:23:07"
+   },
+   {
+    "timestamp": 1609140191263,
+    "FL_p": 0.009167017,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:23:11"
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609140195263,
+    "FL_p": 0.009170334,
+    "localtime": "2020-12-28 15:23:15"
+   },
+   {
+    "FL_p": 0.00917365,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:23:19",
+    "timestamp": 1609140199263
+   },
+   {
+    "timestamp": 1609140203263,
+    "FL_p": 0.009176967,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:23:23"
+   },
+   {
+    "localtime": "2020-12-28 15:23:27",
+    "timestamp": 1609140207263,
+    "FL_p": 0.009180284,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609140211263,
+    "FL_p": 0.009183601,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:23:31"
+   },
+   {
+    "FL_p": 0.009186917,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:23:35",
+    "timestamp": 1609140215263
+   },
+   {
+    "localtime": "2020-12-28 15:23:39",
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609140219263,
+    "FL_p": 0.009190233
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:23:43",
+    "timestamp": 1609140223263,
+    "FL_p": 0.009193551
+   },
+   {
+    "timestamp": 1609140227263,
+    "FL_p": 0.009196867,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:23:47"
+   },
+   {
+    "timestamp": 1609140231263,
+    "FL_p": 0.009200184,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:23:51"
+   },
+   {
+    "FL_p": 0.0092035,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:23:55",
+    "timestamp": 1609140235263
+   },
+   {
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:23:59",
+    "timestamp": 1609140239263,
+    "FL_p": 0.0092068175
+   },
+   {
+    "localtime": "2020-12-28 15:24:03",
+    "timestamp": 1609140243263,
+    "FL_p": 0.009210134,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609140247263,
+    "FL_p": 0.009194127,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:24:07"
+   },
+   {
+    "localtime": "2020-12-28 15:24:11",
+    "FL_p": 0.00917812,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609140251263
+   },
+   {
+    "timestamp": 1609140255263,
+    "FL_p": 0.009162113,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:24:15"
+   },
+   {
+    "timestamp": 1609140259263,
+    "FL_p": 0.0091461055,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:24:19"
+   },
+   {
+    "timestamp": 1609140263263,
+    "FL_p": 0.009130099,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:24:23"
+   },
+   {
+    "timestamp": 1609140267263,
+    "FL_p": 0.009114092,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:24:27"
+   },
+   {
+    "localtime": "2020-12-28 15:24:31",
+    "timestamp": 1609140271263,
+    "FL_p": 0.009098085,
+    "assetId": "7X6t0PQr"
+   },
+   {
+    "timestamp": 1609140275263,
+    "FL_p": 0.009082078,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:24:35"
+   },
+   {
+    "localtime": "2020-12-28 15:24:39",
+    "FL_p": 0.009066071,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609140279263
+   },
+   {
+    "timestamp": 1609140283263,
+    "FL_p": 0.009050064,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:24:43"
+   },
+   {
+    "timestamp": 1609140287263,
+    "FL_p": 0.009034057,
+    "assetId": "7X6t0PQr",
+    "localtime": "2020-12-28 15:24:47"
+   },
+   {
+    "FL_p": 0.0090180505,
+    "assetId": "7X6t0PQr",
+    "timestamp": 1609140291263,
+    "localtime": "2020-12-28 15:24:51"
+   }
+  ]
+ }
+}
